@@ -1,0 +1,2048 @@
+Article 1. Objectives
+This Law on Intellectual Property determines the principles, regulations and measures relating to the promotion of inventions, creativities, knowledge-based economy, management and protection of intellectual property rights, in order to ensure the legitimate interests of the owner of intellectual property and the interests of state, society, encourage the research and develop science and technology, the transfer of technology within the country and from abroad, effectively aiming to promote trade, investment and the competitiveness for the national economy in the era of globalization, contribute in the gradual industrialization and modernization of the country.
+
+Article 2 (revised). Intellectual Property
+Intellectual property is work of the human mind through inventions and creations.
+
+ Article 3 (revised). Definitions
+The terms as used in this law have the following meanings:
+
+1. Intellectual property rights mean the rights of individuals, legal entities or organizations to their intellectual property;
+
+2. Industrial property means intellectual property in the industrial, handicrafts, agricultural, fisheries, commercial and service sectors;
+
+3. Industrial property rights means the rights of individuals, legal entities or organizations relating to industrial property;
+
+4. Patent means the official certificate issued by the state organization to protect inventions that they are new, involve an inventive step and are capable of industrial application;
+
+5. Invention means the technical solution to create new product or process of production to resolve a specific problem;
+
+6. Petty patent means the official certificate issued by the state organization to protect utility innovation;
+
+7. Utility innovation means a new innovative work derived through technical improvements, which involve simpler steps than with inventions;
+
+8. Industrial design means the form or shape of the product, which is to be created which includes the shape, pattern, line, color, etc;
+
+9. Mark means any sign, or any combination of signs, capable of distinguishing the goods or services of one undertaking from those of other undertakings;
+
+10. Trademark means the mark provided for in Item 9 of this Article to use with goods or services as well as to distinguish between these goods or services and other goods or services;
+
+11. Collective trademark means the trademark used by affiliated enterprises or members of an association, cooperative, state or private organization or a group of individuals;
+
+12. Certification mark means the trademark, which the owner has permitted the use of by individuals, legal entities or organizations for use with their goods or services in order to certify the characteristic, which relates to the origin, raw materials and production methods of the goods or methods of services supply, type, quality, safety or other characteristics of the goods or services;
+
+13. Well-known mark means a trademark, which is widely recognized by the relevant sector within the territory of the Lao PDR, including where such knowledge is a result of promotion of the trade mark;
+
+14. Trade name means the name of an enterprise used in business to identify the enterprise;
+
+15. Integrated circuit means a product, in its final form or an intermediate form in which the elements of the product is an active element and some or all of the interconnections are integrally formed in and/or on piece of semiconductor material and the product is intended to perform an electronic function;
+
+16. Semiconductor means a material with electrical conductivity intermediate in magnitude between that of a conductor and an insulator;
+
+17. Layout-design of integrated circuit means a three-dimensional disposition however expressed, of an integrated circuit at least one element of which is an active element and some or all of the interconnections of an integrated circuit, or such a three dimensional disposition prepared for an integrated circuit intended for manufacture;
+
+18. Geographical indication means a sign used to indicate a good as originating in the territory of a country or region or locality in that territory, where a given quality and reputation or other characteristic of the good is essentially attributable to its geographical origin;
+
+19. Trade secret means information which is secret in the sense that it is not known among or readily accessible to persons within the circles that normally deal with the kind of information in question, such as: formula, production process, or any information, which has commercial value because it is secret;
+
+20. Variety means a plant grouping within a single botanical taxon of the lowest known rank, which grouping, irrespective of whether the conditions for the grant of a breeder’s right are fully met, can be defined by the expression of the characteristics resulting from a given genotype or combination of genotypes, distinguished from any other plant grouping by the expression of at least one of the said characteristics and considered as a unit with regard to its suitability for being propagated unchanged;
+
+21. Genotype means the overall genetic data defining the expression of characteristics of a living organism in conjunction with its environment;
+
+22. Propagating material means a plant or any part thereof capable of producing a new plant such as: shoots, rhizomes and seeds;
+
+23. Breeder means the person who bred, or discovered and developed, a variety, or the person who is the employer of the aforementioned person or who has commissioned the latter’s work, where the laws so provide, or the successor in title of the first or second aforementioned person, as the case may be;
+
+24. Plant variety right or breeder’s right means the right granted by the state organization to protect a plant variety in accordance with this Law;
+
+25. Copyright means the right of individuals, legal entities or organizations to their creative works in the domains of art and literature, including scientific works;
+
+26. Related right means the right of individuals, legal entities or organizations to works of performances, phonograms, broadcasts of programs or broadcasts of satellite signal carrying encrypted or unencrypted programs;
+
+27. Works means a creative work by an individual legal entities or organization in the domains of art, literature and science shown in any form or method;
+
+28. Derivative work means a work based on one or more existing works and includes a translation, adaptation, arrangement of music, modification, transformation, interpretation, and other alteration of a copyrighted work;
+
+29. Publish means, for purposes of copyright, making available to the public with the consent of a work’s authors sufficient numbers of copies to satisfy the reasonable demands of the public, having regard to the nature of the work. The performance of a dramatic, dramatico-musical, cinematographic or musical work, the public recitation of a literary work, the communication by wire or the broadcasting of literary or artistic works, the exhibition of a work of art and the construction of a work of architecture shall not constitute publication;
+
+30. Publish means, for purposes of related rights, the offering of copies of the fixation of a performance or a phonogram to the public, with the consent of the right holder, and provided that copies are offered to the public in reasonable quantity;
+
+31. Reproduction for purposes of copyright and related rights means the copying of a work or phonogram or object of related rights by any method, including the permanent or temporary copying of the work or phonogram or object of related rights;
+
+32. Phonogram means any exclusively aural fixation of sounds of a performance or of other sounds on recording instruments such as: audio disc, cassette, laser disc, CD-Rom or by any other means of sound recordings;
+
+33. Broadcasting means making works available to the public through radio or television broadcasts or by other similar means, such as: the internet, or satellite transmissions;
+
+34. Applied art means adaptations of art to be used for other purposes;
+
+35. Priority means a claim of an earlier effective filing date in the Lao PDR or in another country or office which based on an earlier filing of an application;
+
+36. Exploit means to perform or offer to perform actions that are subject to the authorization of the right holder, with or without compensation or other benefits.
+
+ 
+Article 4. State Policy Relating to Intellectual Property
+The state promotes the development of intellectual property activities and the exploitation of the fruits of invention, the creativity of individuals, legal entities or organizations as well as recognizes and protects the rights and interests of the owner of intellectual property.
+
+The state encourages activities and investment in the intellectual property sector by laying down policies, laws and regulations, and measures to accommodate such investment.
+
+The state protects intellectual property, which is not contrary to laws and regulations, culture or fine traditions of the nation, national defense, public security, sanitation and the environment.
+
+ 
+
+Article 5 (revised). General Principles Relating to Intellectual Property
+The General principles relating to intellectual property are as follows:
+
+1. recognition, protection and to ensure fairness for the owner of intellectual property;
+
+2. protection of industrial property in the Lao PDR shall be applicable when the owner of industrial property has registered its industrial property in accordance with this Law;
+
+3. copyright and related rights are protected immediately after the work in artistic and literary domain is created, including scientific works;
+
+4. all exploitation of intellectual property must first be authorized by the owner of the rights;
+
+5. in the case that any provision of this Law is contrary to any international convention or agreement to which the Lao PDR is a party, the provisions of such international convention or agreement shall prevail.
+
+ 
+
+Article 6. Scope of Application of the Law
+This law is applicable to domestic and foreign individuals, legal entities and organizations who are involved in intellectual property activities under this law and international conventions or agreements to which the Lao PDR is a party.
+
+ 
+
+Article 7. International Cooperation
+The state promotes foreign, regional and international cooperation in relation to intellectual property activities based on respect of each other’s independence, sovereignty, mutual benefit for the development and management of intellectual property activities, technical expertise exchange; the exchange of technology, information, to enhance the level of personnel, participation and implementation of international conventions and agreements to which the Lao PDR is a party.
+
+Section II. Intellectual Property
+ 
+
+Article 8. Intellectual Property Framework
+Intellectual property is composed of:
+
+1. industrial property;
+
+2. new plant variety;
+
+3. copyright and related rights.
+
+ 
+
+Article 9 (revised). Industrial Property
+Industrial property is composed of:
+
+1. patents;
+
+2. petty patents;
+
+3. industrial designs;
+
+4. trademarks;
+
+5. trade names
+
+6. layout-design of integrated circuits;
+
+7. geographical indications;
+
+8. trade secrets.
+
+ 
+
+Article 10 (revised). New Plant Variety
+New plant variety is composed of:
+
+1. Plant variety that exists generally and is derived from improvements to become a new plant variety;
+
+2. Plant variety that is discovered in the nature and then is developed to become a new plant variety.
+
+ 
+
+Article 11. Copyright and Related Rights
+Copyright and related rights include:
+
+1. copyrights to the works in artistic domain, literary domain, and scientific domain including computer programs;
+
+2. related rights to the works of performers, producers of phonograms and broadcasting organization.
+
+Section III. Industrial Property
+Part 1. Industrial Property Requirements
+ 
+
+Article 12 (revised). Industrial Property for Obtaining a Certificate of Protection for Industrial Property
+Industrial Property for obtaining a registration certificate are as follows:
+
+- patent;
+
+- petty patent;
+
+- industrial design;
+
+- trade mark;
+
+- integrated circuit layout-design;
+
+- geographical indication.
+
+ 
+
+Article 13 (revised). Requirements for Obtaining a Patent
+In order to obtain a patent, an invention shall meet all the following requirements:
+
+1. shall be new: meaning such invention has not existed, not been disclosed to the public by publication, or by use or in any other means in the Lao PDR or any place in the world prior to the date of filing the application for registration or where priority is claimed prior to the priority date of the application for a patent;
+
+2. shall involve an inventive step: meaning that would not be obvious to a person having ordinary knowledge in that field of technology;
+
+3. shall be industrially applicable in industry, handicraft, agriculture, fishery, services, etc.
+
+ 
+
+Article 14 (revised). Requirements for Obtaining a Petty Patent
+In order to obtain a petty patent, an utility innovation shall meet all the following requirements:
+
+1. shall be new in the sense that it has not been previously known or used in the Lao PDR within one year prior to the date of application;
+
+2. shall involve a new technical improvement that involves an inventive step which may be a lesser inventive step than required for a patent;
+
+3. shall be industrially applicable in industry, handicraft, agriculture, fishery, services, etc.
+
+ 
+
+Article 15 (revised). Requirements for Obtaining an Industrial Design Certificate
+In order to obtain an industrial design certificate, a design shall meet all the following requirements:
+
+1. shall be new: meaning that it has not been disclosed to the public by publication or by use or displayed, or in any other means in the Lao PDR or any place in the world prior to the date of filing the application for registration or prior to the priority date of the application for registration;
+
+2. shall be ornamental: meaning that it gives a special appearance to the object to which the design is applied or in which it is embodied.
+
+ 
+
+Article 16 (revised). Requirements for Obtaining a Trademark Certificate
+In order to obtain a trademark certificate, a mark shall meet all the following requirements:
+
+1. the mark may be any sign, or any combination of signs, capable of distinguishing the goods or services of one undertaking from those of other undertakings. Such signs may include words including personal names, letters, numerals, figurative elements and combinations of colors as well as any combination of such signs;
+
+2. the mark is not identical to a previously registered mark, well-known mark, or geographical indication for the same goods or services;
+
+3. the mark is not similar to a previously registered mark or well-known mark for the same, similar, or related goods and services, where the use of the later mark would tend to cause confusion as to the source of the goods or services or create a false impression that they are connected or associated with another party;
+
+4. the mark does not contain characteristics prohibited under Article 23 of this Law.
+
+Any trademark shall be deemed well-known when it meets all the following requirements:
+
+1. the trademark is a mark, as defined in the above paragraph, which is widely recognized by the relevant sector within the territory of the Lao PDR, as indicating the goods or services of the proprietor of the mark that is claimed to be a well-known mark;
+
+2. the trademark is not contrary to the requirements for registrability in the Lao PDR;
+
+3. In considering whether a mark is a well-known mark, any reasonable evidence may be taken into account, including evidence of such facts as are mentioned below:
+
+3.1. the relevant sector of the public recognize the trademark by way of trade, use of the trademark on or in connection with goods or services or through advertising;
+
+3.2. the products, goods, services are widely circulated bearing the trademark within the territory;
+
+3.3. the volume of goods sold or services provided;
+
+3.4. regular and continuous period of use of the trademark;
+
+3.5. goodwill associated with use of the trademark with the goods or services based on such factors as good quality, service, or their popularity;
+
+3.6. domestic consumers certify and widely recognize the reputation of the trademark;
+
+3.7. high value of investment in the trademark.
+
+A well-known trademark whether registered or otherwise shall be protected in accordance with laws and regulations.
+
+ 
+
+Article 17 (revised). Requirements for Obtaining a Layout-design of Integrated Circuits Certificate
+In order to obtain a layout-design of integrated circuit certificate, a lay-out design shall meet all the following requirements:
+
+1. the layout-design is original in the sense that it is the result of it creators’ own intellectual effort and is not commonplace among creators of layout-designs and manufacturers of integrated circuit at the time of its creation;
+
+2. the layout-design consists of a combination of elements and interconnections that are commonplace shall be protected only if the combination, taken as a whole, fulfills the conditions of subparagraph 1.
+
+3. the application for registration is submitted before the layout-design circuit is ordinarily and commercially exploited by the right holder anywhere in the world or within two years from such date.
+
+ 
+
+Article 18 (revised). Requirements for Obtaining a Geographical Indication Certificate
+In order to obtain a geographical indication certificate, an indication shall meet all the following requirements:
+
+1. the indication identifies a good as originating in a particular geographical country or territory, or a region or locality in that territory;
+
+2. a given quality, reputation or other characteristic of the good is essentially attributable to its geographical origin. Such quality, reputation, or characteristic may be based on natural factors including conditions of the soil, air, water, ecology, and other natural conditions or on human factors including skill and the experience of the manufacturers and traditional production methods of that locality.
+
+ 
+
+Article 19 (new). Trade name
+A trade name shall be protected without the obligation of filing or registration, whether or not it forms part of a trademark.
+
+ 
+
+Article 20 (revised). Requirements of Trade Secrets
+In order to be considered as a trade secret, information shall meet all the following requirements:
+
+1. shall be secret in the sense that it is not known among or readily accessible to persons within the circles that normally deal with the kind of information in question, such as: formula, production process, or any information;
+
+2. shall have commercial value;
+
+3. shall have been subject to reasonable steps under the circumstances by the person lawfully in control of the information, to keep it secret.
+
+Part 2. Industrial Property Ineligible for Protection
+ 
+
+Article 21 (revised). Inventions or Utility innovations Ineligible for Patents or Petty Patents
+The following shall be ineligible for a patent or petty patent:
+
+1. inventions or utility innovations that are not novel because they are discoveries of existing things, including living organisms or parts of living organisms that exist in nature;
+
+2. subject matter that is not an invention does not constitute a technical solution because it is merely a scientific principle or theory, a mathematical algorithm, or a set of rules for doing business or playing games, provided however, that such subject matter may constitute an element of an invention or utility innovation;
+
+3. diagnostic, therapeutic and surgical methods for the treatment of humans or animals;
+
+4. plants and animals other than micro-organisms, and essentially biological processes for the production of plants or animals provided however, that such subject matter may constitute an element of an invention or utility innovation.
+
+A patent or petty patent may be refused or its exploitation limited:
+
+1. where it is necessary to prevent its commercial exploitation to protect culture and the fine traditions of the nation, including to protect human, animal or plant life or health or to avoid serious prejudice to the environment;
+
+2. where necessary for the protection of the essential security interests of the Lao PDR.
+
+ 
+
+Article 22 (revised). Designs Ineligible for Industrial Designs Registration
+Designs ineligible for industrial designs registration shall be as follows:
+
+1. a design the appearance of which is dictated by technical features of the object to which the design is applied or in which it is embodied;
+
+2. a designs that is contrary to social order and the fine traditions of the nation.
+
+ 
+
+Article 23 (revised). Marks Ineligible for trademarks Registration
+The following shall be ineligible for trademark registration:
+
+1. the mark that does not distinguish the goods or services of the applicant from those of another individual, legal entity or organization;
+
+2. the mark that consists exclusively of signs or indications which may serve, in trade, to designate the kind, quality, quantity, intended purpose, value, place of origin, of the goods, or the time of production, or of signs that have become customary in the current language or in the good faith and established practices of the trade in the Lao PDR;
+
+3. the mark that is of such a nature as to deceive or mislead the public or trade circles in which the mark is used or is of a fraudulent nature;
+
+4. the mark that consists of or comprises indications that, when used in the course of trade, is liable to mislead the public as to the origin, nature, the manufacturing process, the characteristics, the suitability for their purpose, or the quantity, of the goods or services;
+
+5. the mark that consists of or contains without authorization from the relevant governmental entity, armorial bearings, flags, or other national emblems, and official signs, hallmarks, abbreviations or full names of towns, municipalities, provinces or capital of the Lao PDR or foreign countries;
+
+6. the mark that consists of or contains, without authorization from the relevant state or international organization, an emblem of an international organization or symbols created by international conventions, official seals or symbols of state or international organizations;
+
+7. the mark that consists of or contains, without authorization, the name, image, or likeness of a living person;
+
+8. the mark that consists of or contains, without authorization images of cultural symbols or historical monuments, or the name, image, or likeness of a national hero or a leader, or the mark would be offensive or contrary to the fine traditions of the nation;
+
+9. the mark that is identical, or similar to trademarks already registered for the same, similar, or related goods or services;
+
+10. the mark that is identical, or similar to a well-known mark for the same, similar or related goods or services;
+
+11. the mark that is identical, or similar to a trade name for a business that provides the same, similar, or related goods and services;
+
+12. the above-mentioned mark that would lead to a likelihood of confusion as to the source of the goods or services or falsely suggest an association with the registered mark or well-known mark or trade name, as appropriate;
+
+13. the mark that consists of or incorporates a geographical indication which identifies a place other than the true origin of the goods;
+
+14. the mark that consists of or incorporates a geographical indication which, although literally true as to the territory, region or locality in which the goods originate, falsely represents to the public that the goods originate in another territory;
+
+15. the mark consists of or contains matter which may disparage or falsely suggest a connection with persons, living or dead, institutions, beliefs, or national symbols, or bring them into contempt, or disrepute;
+
+16. the mark is of such a nature as to create confusion with the establishment, the goods, or the industrial or commercial activities, of a competitor;
+
+17. the mark is of such a nature that its use in the course of trade would discredit the establishment, the goods, or the industrial or commercial activities, of a competitor;
+
+18. the mark is contrary to national security, social order, culture and the fine traditions of the nation.
+
+The nature of the goods or services to which a trademark applies shall in no case form an obstacle to the registration of the mark.
+
+ 
+
+Article 24 (revised). Object Ineligible for Layout-designs of Integrated Circuits Registration
+Objects ineligible for registration of integrated circuit layout-designs shall be as follows:
+
+1. principles, processes, systems or methods operated by integrated circuits;
+
+2. information or software contained in the integrated circuits.
+
+ 
+
+Article 25 (revised). Geographical Indications Ineligible for Registration
+Geographical indications ineligible for registration shall be as follows:
+
+1. geographical indications which are likely to mislead or confuse consumers as to the true source origin of goods;
+
+2. names of geographical indications which have become customary names of such goods in the Lao PDR;
+
+3. geographical indication with respect to products of the wine for which the relevant indication is identical with the customary name of a grape variety existing in the Lao PDR;
+
+4. geographical indication of another country where such geographical indications are not or cease to be protected in their country of origin, or which have fallen into disuse in that country;
+
+5. geographical indications which are identical with or similar to protected trademarks where use of the indications will lead to misunderstanding or confusion as to the origin of the said goods;
+
+6. a geographical indication that is homonymous with a protected geographical indication for wine.
+
+Part 3. Protection of Industrial Property
+ 
+
+Article 26 (revised). Persons eligible for protection of industrial property
+The following persons are eligible to obtain protection for their industrial property:
+
+1. a Lao citizen or resident in the Lao PDR, or a legal entity or organization established under the laws of the Lao PDR;
+
+2. an individual that is a national of any country which is a member of the Paris Convention or other international agreement relating to the protection of industrial property and of which the Lao PDR is also a member;
+
+3. an individual who is a resident of the Lao PDR or o f the territory of any member of the Paris Convention or other international agreement relating to the protection of industrial property and of which the Lao PDR is also a member;
+
+4. an individual, legal entity or organization with a real and effective industrial or commercial establishment in the territory of any member of the Paris Convention or of any other international agreement that relates to the protection of industrial property and of which the Lao PDR is also a member.
+
+Subject to the requirement to have a representative in the Lao PDR, foreign persons, legal entities or organizations eligible for protection of industrial property shall be entitled to treatment no less favorable than Lao citizens.
+
+ 
+
+Article 27 (revised). Filing Applications
+Domestic or foreign individuals, legal entities and organizations may apply for a patent, petty patent, or registration of their industrial property with the Ministry of Technology and Science or with an international intellectual property registration organization to which the Lao PDR is a party.
+
+Any individual, legal entity or organization residing in a foreign country, who wishes to apply for the registration of an industrial property, shall appoint an authorized representative in the Lao PDR.
+
+The applicant without business premises or residence in the Lao PDR shall appoint an authorized representative in the Lao PDR to carry out transactions related to intellectual property in the Lao PDR.
+
+The application shall include the documents set forth from Articles 31 to Article 35 of this Law.
+
+ 
+
+Article 28 (revised). Principles used for Consideration of Applications
+Where more than one application is filed for the same subject matter, the patent, petty patent, or registration of industrial property shall be awarded on the basis of the application with the earliest filing date, taking into account the priority date if applicable, where such application satisfies the requirements for the protection requested.
+
+ 
+
+Article 29 (revised). Priority
+An application for the granting of a patent or petty patent, or for the registration of an industrial design or trademark, may contain a declaration claiming priority based on one or more earlier national, regional, or international applications filed by the applicant or his predecessor in title in the Lao PDR or in another country or office that is party to an agreement to which the Lao PDR is a party and that provides for a right of priority. The requirements for establishing a claim to priority shall be as described in a separate regulation. Where a priority claim is established, any subsequent filing before the expiration of the priority periods referred to below shall not be invalidated by reason of any acts accomplished in the interval, in particular, another filing, the publication or exploitation of the invention, the putting on sale of copies of the design, or the use of the mark, and such acts cannot give rise to any third-party right or any right of personal possession.
+
+If a priority claim is submitted, the applicant shall submit a copy of the application on which the priority claim is based, certified as correct by the authority which received such application and showing the date of filing. Such documents shall not require any authentication, and may be filed, without fee, at any time within three months of the filing of the application in the Lao PDR.
+
+If an applicant claiming priority does not satisfy the requirements to establish priority, the priority claim shall be deemed to have been waived. In such case, or where no priority is claimed or an application is received after the expiration of the specified priority period, the effective filing date shall be the actual filing date of the complete application in the Lao PDR.
+
+For patents and petty patents the priority period is twelve months from the priority date. For industrial designs or trademarks the priority period is six months from the priority date.
+
+ 
+
+Article 30 (revised). Temporary Protection of Inventions, Utility Innovations, Industrial Designs and Trademarks at Certain Exhibitions
+Temporary protection shall be available for inventions, utility innovations, industrial designs, and trademarks in respect of goods exhibited at official or officially recognized international exhibitions, provided a request for such protection is made and an application is filed within six months from the date on which the goods were first exhibited or rendered at such exhibition. In such case, the application shall be deemed to have been filed on the date on which the goods were first exhibited at such exhibition, provided that temporary protection under this Article shall not be applied so as to extend any other claim of priority.
+
+ 
+
+Article 31 (revised). Applications for Patent or Petty Patent
+An application for a patent or petty patent shall include the following documents:
+
+1. a request for a patent or petty patent;
+
+2. if the applicant is represented, a power of attorney and the name and address of the applicant’s representative in the Lao PDR;
+
+3. description that discloses the invention or utility innovation in such clear and complete terms as to enable a person of ordinary skill in the relevant field of technology to understand and exploit the invention or utility innovation; the description shall disclose the best mode for making or using the invention or utility innovation;
+
+4. claims that clearly specify the subject matter to be protected and are supported by the description;
+
+5. drawings (if needed to understand the invention);
+
+6. abstract;
+
+7. receipt for payment of fees.
+
+The application may include a claim for priority as provided in Article 29 of this Law (if applicable). An application for a patent or petty patent shall relate to one invention or utility innovation only or a group of related inventions or utility innovations so linked as to form a single inventive concept as per the international classifications. The Ministry of Science and Technology shall accept the application and assign a filing date to an application that contains, at a minimum:
+
+- the name, address and nationality of the applicant;
+
+- the name of inventor of the invention or utility innovation;
+
+- description of the invention or utility innovation;
+
+- filing fee as per regulations.
+
+If any individual, legal entity or organization wishes to obtain a patent or petty patent, shall satisfy all specified requirements within the times set by the Ministry of Science and Technology.
+
+ 
+
+Article 32 (revised). Applications for Registration of Industrial Designs
+Applications for registration of industrial designs shall include the following documents:
+
+1. a request for registration of the industrial design;
+
+2. if the applicant is represented, a power of attorney and the name and address of the applicant’s representative in the Lao PDR;
+
+3. one or more drawings or photographs that clearly disclose the industrial design as needed to illustrate its appearance;
+
+4. a brief statement of the type of goods to which the industrial design relates;
+
+5. receipt of payment of fees.
+
+The application may include a claim of priority as provided in Article 29 of this Law (if applicable). Each application for industrial design registration shall apply to a single industrial design or a series of related designs for a single class as per the international classifications.
+
+The Ministry of Science and Technology shall accept the application and assign a filing date that contains, at a minimum:
+
+- the name, address and nationality of the applicant;
+
+- a drawing or photograph;
+
+- filing fee as per regulations.
+
+If any individual, legal entity or organization wishes to apply for registration of industrial design, shall satisfy all specified requirements within the times set by the Ministry of Science and Technology.
+
+ 
+
+Article 33 (revised). Applications for Registration of Trademarks
+Applications for registration of trademarks shall include the following documents:
+
+1. a request for registration of the trademark;
+
+2. if the applicant is represented, a power of attorney and the name and address of applicant’s representative in the Lao PDR
+
+3. a clear drawing or other image or specimen of the mark;
+
+4. description of the goods to which the mark will be applied or the services in connection with which it will be used; if the application relates to a collective mark or certification mark, the application shall so indicate and shall include a description of the way the mark is to be used;
+
+5. receipt for payment of fees.
+
+The application may include a claim of priority as provided in Article 29 of this Law (if applicable). One registration application is valid for only one trademark but may apply to more than one class of goods or services as per the international classifications, subject to the payment of a fee for each class of goods or services. The Ministry of Science and Technology shall accept the application and assign a filing date that contains, at a minimum:
+
+- the name, address and nationality of the applicant;
+
+- a drawing or photograph or specimen of the mark;
+
+- filing fee as per regulations.
+
+If any individual, legal entity or organization wishes to apply for registration of industrial design, shall satisfy all specified requirements within the times set by the Ministry of Science and Technology.
+
+ 
+
+Article 34 (revised). Applications for Registration of Layout-designs of Integrated Circuits
+Applications for registration of layout-design of integrated circuit shall include the following documents:
+
+1. a request for registration of layout-design of integrated circuit ;
+
+2. if the applicant is represented, a power of attorney and the name and address of applicant’s representative in the Lao PDR;
+
+3. description of the first commercial use of the layout-design or integrated circuit in which it is embodied;
+
+4. drawings of the layout-design integrated circuit sufficient to identify the layout-design;
+
+5. If the integrated circuit has been commercially exploited, a description of the electronic function that the integrated circuit perform or is intended to perform;
+
+6. receipt for the payment of fees.
+
+One registration application is valid for only one integrated circuit layout-design.
+
+The Ministry of Science and Technology shall accept the application and assign a filing date that contains, at a minimum:
+
+- the name, address and nationality of the applicant;
+
+- disclosure of the integrated circuit layout-design;
+
+- filing fee as per regulations.
+
+If any individual, legal entity or organization wishes to apply for registration of integrated circuit layout-design, shall satisfy all specified requirements within the times set by the Ministry of Science and Technology.
+
+ 
+
+Article 35 (revised). Applications for Registration of Geographical Indications
+Applications for registration of geographical indications shall include the following documents:
+
+1. a request for registration of the geographical indication;
+
+2. if the applicant is represented, a power of attorney and the name and address of applicant’s representative in the Lao PDR;
+
+3. a clear image of the geographical indication;
+
+4. statement of the geographical region to which the proposed geographical indication applies;
+
+5. goods to which the proposed geographical indication applies and applicable methods of control;
+
+6. statement of the basis on which the proposed geographical indication is claimed to be a geographical indication, and evidence in support of such statement;
+
+7. where the geographical application is based on protection in a foreign country, evidence that the geographical indication is protected in its country of origin;
+
+8. receipt for payment of fees.
+
+One registration application is valid for only one geographical indication.
+
+The Ministry of Science and Technology shall accept the application and assign a filing date that contains, at a minimum:
+
+- the name, address and nationality of the applicant;
+
+- image of the geographical indication;
+
+- a statement of the geographical region to which the proposed geographical indication applies;
+
+- the goods to which the proposed geographical indication applies;
+
+- filing fee as per regulations.
+
+If any individual, legal entity or organization wishes to apply for registration of geographical indication, shall satisfy all specified requirements within the times set by the Ministry of Science and Technology.
+
+ 
+
+Article 36 (revised). Provision of Additional Information
+Where an application has previously been filed abroad and such application contains some or all of the same subject matter as the application filed in the Lao PDR, the applicant shall disclose such prior filings. The Ministry of Science and Technology may require the applicant to submit, or the applicant may on its own initiative submit copies of relevant documents, in particular, a search or examination report or copy of the patent or petty patent or industrial property registration certificate obtained abroad.
+
+ 
+
+Article 37 (revised). Language used for applications
+An industrial property application and any accompanying material may be filed in either the Lao language or in the English language. Provided however, that for any application or document filed or submitted in English, the applicant must, within 90 days of such filing, supply a translation into the Lao language. Such translation must be certified to be a correct translation.
+
+ 
+
+Article 38 (revised). Formality Examination of Industrial Property Registration Applications
+The Ministry of Science and Technology will conduct a formality examination of each industrial property application to ensure that the application is complete, in correct form, and that fees have been paid. The Ministry of Science and Technology will notify the applicant whether the application is sufficiently complete to receive a filing date.
+
+If the application is sufficiently complete to receive a filing date but it appears that the application is incomplete or otherwise incorrectly filed, the Ministry of Science and Technology will inform the applicant to complete the application within 60 days of notification.
+
+ 
+
+Article 39 (revised). Publication of Industrial Property Applications
+After the Ministry of Science and Technology has completed its formality examination of the application for a patent or petty patent; the registration unit will publish the application in the official industrial property gazette in the 19th month after the date of filing the application.
+
+ 
+
+Article 40 (revised). Substantive Examination of Industrial Property Applications
+After completion of the formality examination of the application, the Ministry of Science and Technology will examine as to substance the patent, petty patent, industrial design, trademark and geographical indication applications for registration.
+
+The layout-design of integrated circuit registration application is not examined as to substance.
+
+ 
+
+Article 41 (revised). Request for Substantive Examination of Industrial Property Applications
+An application for a patent is subject to a substantive examination to determine whether it meets the requirements for patentability or for obtaining a petty patent as described in this Law. The substantive examination shall be based on a search of existing technical knowledge. Where the application has previously been subject to a search or examination by another authority the applicant may submit a copy of the report of such office and request that it be accepted in lieu of conducting a search in the Lao PDR.
+
+If the applicant is unable to provide substantive examination reports for the invention or utility innovation which is the subject of the application, the applicant may submit a request to the Ministry of Science and Technology to examine as to substance the application. The Ministry of Science and Technology will undertake the examination within the following time frames: 32 months for an invention and 12 months for a utility innovation from the date of filing the application or the priority date. However, all expenses incurred in the request for the examination of the invention or utility innovation registration application shall be the burden of the requestor.
+
+The registration applications for industrial design, trademark and geographical indication are not examined as to substance.
+
+ 
+
+Article 42 (new). Amendment and division of the application
+At any time an application is pending before the Ministry of Science and Technology but before it is in order for grant an applicant may amend or divide the application as following conditions:
+
+1. amend the application without fee;
+
+2. upon payment of the application fees, divide the application into two or more divisional applications or re-file the application with or without amendments;
+
+3. upon payment of the application fees, refile the application to change the form of protection requested.
+
+An amendment as provided in item 1 of paragraph 1 shall not:
+
+1. introduce new technical information not supported by the original application into an application for a patent, petty patent, or registration of an integrated circuit layout-design;
+
+2. change the essential appearance of an industrial design or the essential nature of a mark or geographical indication. Where an application is divided or refiled as provided in item 2 or 3 of paragraph 1 of this article, the applications shall be entitled to filing dates and priority as set forth in the Regulations.
+
+ 
+
+Article 43 (revised). Abandonment of Industrial Property Application
+Industrial property applications shall be deemed abandoned under the following conditions:
+
+1. the application is incomplete;
+
+2. the industrial property does not meet the requirements for protection;
+
+3. the applicant is not entitled to apply for registration;
+
+4. the applicant fails to pay the required fees for the application or to maintain the protection in force;
+
+5. the applicant did not request substantive examination of the invention or utility registration application within the period provided for in Article 41 of this law; and the applicant does not correct the above deficiencies within the time set by the Ministry of Science and Technology.
+
+ 
+
+Article 44 (revised). Registrations
+After consideration and examination of the industrial property registration applications which are considered to fulfill the requirements provided for in this law, the Ministry of Science and Technology will issue a patent, petty patent or industrial property registration certificate, enter the registration in the register and publish the registration in the official industrial property gazette.
+
+Where an industrial design, trademark or geographical indication has been registered, the third party may request an objection or a cancellation of such registration within period of 5 years from the date of publication in the official gazette.
+
+ 
+
+Article 45 (revised). Termination of Industrial Property Rights
+Patents, petty patents, and industrial property registrations shall terminate as follows:
+
+1. the term of protection is expired;
+
+2. the industrial property owner fails to renew the registration and pay the applicable fees, in which case, rights shall terminate as of the end of the term for which protection was granted and the fee was paid;
+
+3. the patent, petty patent, or registration is invalidated based on a finding that one or more requirements for protection have not been satisfied; where such finding applies to only a portion of the industrial property, the termination shall apply only to such portion as is invalidated. In such case, the invalidation shall be effective as from the grant of the patent, petty patent, or registration;
+
+4. failure to the commercial exploitation, the industrial property rights will be terminated after the final decision by the competent court.
+
+Part 4. Industrial Property Rights Owner
+ 
+
+Article 46 (revised). Industrial Property Rights Owner
+After obtaining lawful patent, petty patent, or registration, the applicant shall become the owner of the industrial property. In the case that the industrial property creation or design is hired out, the industrial property owner shall be the hirer, except where agreed otherwise by the parties.
+
+ 
+
+Article 47 (revised). Rights of the Industrial Property Owner
+The industrial property owner has the following rights:
+
+1. to enjoy the benefits derived from the exploitation of the industrial property;
+
+2. to transfer all or part of the owner’s rights to another person by sale, exchange, rent or assignment;
+
+3. to permit another person to exploit all or part of the owner’s rights to the industrial property;
+
+4. to inherit industrial property and to pass ownership of the industrial property by inheritance;
+
+5. to take legal action to protect its industrial property from violation by other parties.
+
+Part 5. Term of Protection of Industrial Property
+ 
+
+Article 48. Term of Protection of Patents
+The term of protection of patents shall be 20 years from the date of filing the application for registration. In order to maintain the term of protection, the patent owner shall pay annual fees in advance.
+
+ 
+
+Article 49. Term of Protection of Petty Patents
+The term of protection of petty patents shall be 10 years from the date of filing the application for registration.
+
+In order to maintain the term of protection, the petty patent owner shall pay annual fees in advance.
+
+ 
+
+Article 50. Term of Protection of Industrial Designs
+The term of protection of industrial designs shall be 15 years from the date of filing the application for registration.
+
+In order to maintain the term of protection, the industrial design owner shall pay fees every five years in advance.
+
+ 
+
+Article 51 (revised). Term of Protection of Trademarks
+The term of protection of trademarks shall be 10 years from the date of registration. Upon expiry the term of protection may be indefinitely renewed and each period of renewal will be for 10 years.
+
+In order to maintain the term of protection the owner of the trademark shall pay fees every 10 years in advance.
+
+ 
+
+Article 52. Term of Protection of Layout-designs of Integrated Circuits
+The term of protection of layout-designs of integrated circuits shall be 12 years from the date of filing the application for registration.
+
+In order to maintain the term of protection the layout-design of integrated circuit owner shall pay annual fees in advance.
+
+ 
+
+Article 53. Term of Protection of Geographical indications
+The term of protection of geographical indications is unlimited and commences from the date of receipt of the registration certificate and payment of a one-time fee.
+
+ 
+
+Article 54. Term of Protection of Trade Secrets
+Trade secrets are protected for an unlimited period or until their secrecy is lost.
+
+Part 6. Rights and Obligations of the Industrial Property Owner
+ 
+
+Article 55 (revised). Rights of the Patent and Petty Patent Owner
+A patent owner has the following rights:
+
+1. In case the patent is for a product:
+
+1.1. the right to prevent others, without the owner’s authorization, from making, importing, offering for sale, selling, or using the patented products;
+
+1.2. the right to prevent others, without the owner’s authorization, from keeping such products for the purposes of offering for sale, sale or use;
+
+2. In case the patent is for a process:
+
+2.1. the right to prevent others , without the owner’s authorization, from using that process;
+
+2.2. the right to prevent others, without the owner’s authorization, from actions defined in item 1, for a product obtained directly from the patented process.
+
+3. authorize individual, legal entity or organization other than the patent owner to undertake any of the acts described in items 1 and 2 of this Article in Lao PDR;
+
+4. to protect their rights under the law and regulations against infringements by others such as to institute court action, [and] right to compensation from damages caused by others;
+
+5. to prevent others from exploiting the patented invention from the time that the patent is issued. The owner may bring a suit for acts of infringement occurring during the pendency of the application only after the patent is granted and only for acts occurring after publication during pendency or if the infringer had notice of the patent application.
+
+For petty patent owners, rights shall be applied likewise as to those of patent owner, mutatis mutandis.
+
+ 
+
+Article 56 (Revised). Rights of the Industrial Design Owner
+An industrial design owner has the right to prevent third parties not having the owner's consent from making, selling or importing articles bearing or embodying an industrial design which is a copy or imitation of the protected design, when such acts are undertaken for commercial purposes.
+
+The provisions of items 3, 4 and 5 of Article 55 of this Law shall apply mutatis mutandis, provided however, that where publication is delayed, no suit shall be brought except where the relevant information is first notified to the person being sued.
+
+ 
+
+Article 57 (revised). Rights of the Trademark Owner
+A trademark owner has the following rights:
+
+1. to prevent all third parties from using in the course of trade identical or similar signs for goods or services which are identical, similar, or related to those in respect of which the trademark is registered where such use would result in a likelihood of confusion;
+
+2. to prevent the sale or advertising of goods bearing the mark or the use of the mark in connection with services, and the importation or export of goods bearing such a mark;
+
+3. to protect their rights under the law and regulations against infringements by others such as to institute court action, [and] right to compensation from damages caused by others.
+
+The rights described in items 1 and 2 of this Article shall not prejudice any existing prior rights.
+
+The rights described above shall apply mutatis mutandis to well-known marks and to trade names without regard to whether they are registered.
+
+1. No individual or organization of this than the trademark owner shall undertake any of the acts described in paragraph 1 in Lao PDR without authorization by the trademark owner, and except as otherwise provided in this Law, any such acts without authorization shall be considered to be an act of infringement;
+
+2. It shall be the responsibility of the trademark owner to take measures to enforce rights under the trademark. The owner of the trademark shall, in addition to any other rights, remedies, or actions available to him, have the right, subject to any exceptions provided in this Law, to institute court action against an individual or organization who infringes his trademark or who, without his agreement, performs acts that make it likely that infringement will occur;
+
+3. The owner of the registered trademark shall have the right to prevent others from using the mark as described in paragraph 1 from the time that the mark is registered. This provision shall not prejudice the right of the trademark registrant to take legal action on any other basis, in particular, for infringing a mark is that is well-known or for infringement of a trade name.
+
+ 
+
+Article 58 (revised). Rights of Integrated Circuit Layout-Design Owner
+A Integrated Circuit Layout-Design Owner has the right to prevent others without the owner’s authorization from:
+
+1. Reproducing a layout-design circuit in its entirety, whether by incorporating it into an integrated circuit or otherwise;
+
+2. Reproducing any part of the integrated circuit, whether by incorporating it into an integrated circuit or otherwise, except where the act of reproducing any part that does not require with the requirement of originality referred to item 1 of Article 18 of this Law;
+
+3. importing, selling, or otherwise distributing for commercial purposes a protected layout-design or an integrated circuit in which a protected layout-design is incorporated;
+
+4. importing, selling, or otherwise distributing for commercial purposes an article incorporating or an integrated circuit in which a protected layout-design has been incorporated, but only to the extent that it continues to contain an unlawfully reproduced layout-design.
+
+It shall not be unlawful to perform any of the acts in respect of an integrated circuit incorporating an unlawfully reproduced layout-design or any article incorporating such an integrated circuit where the person performing or ordering such acts did not know and had no reasonable ground to know, when acquiring the integrated circuit or article incorporating such an integrated circuit, that it incorporated an unlawfully reproduced layout-design, provided however that after the time such person has received sufficient notice that the layout-design was unlawfully reproduced, that person may perform any of the acts with respect to stock on hand or ordered before such time but shall be liable to pay the right holder a sum equivalent to a reasonable royalty such as would be payable under a negotiated license in respect of such layout-design.
+
+It shall not be unlawful for a private party to reproduce an integrated circuit layout-design for the sole purpose of evaluation, analysis, research, or teaching.
+
+The holder of the right shall not exercise his right in respect of an identical original layout-design that was independently created by a third party.
+
+1. No individual or organization other than the owner of the registered integrated circuit layout-design shall undertake any of the acts described in paragraph 1 in the Lao PDR without authorization by the owner of the registered integrated circuit layout-design, and except as otherwise provided in the Law, any such acts without authorization shall be considered to be an act of infringement;
+
+2. It shall be the responsibility of the owner of the integrated circuit layout-design registration to take measures to enforce rights under the registration. The owner of the registration shall, in addition to any other rights, remedies, or actions available to him, have the right, subject to any exceptions provided below, to institute court action against an individual or organization who infringes his trademark or who, without his agreement, performs acts that make it likely that infringement will occur.
+
+ 
+
+Article 59 (revised). Rights of Geographical Indication Registration Owner
+The owner of the registration of a geographical indication shall have the following rights:
+
+1. to prevent others from applying the geographical indication to goods or including the geographical indication in a trademark, and to prevent the sale, advertising, importation, or export of goods bearing such indication or including the geographical indication in such trademark;
+
+2. to object to the use of a geographical indication in item 1 above where related to wines or spirits, even in translation or accompanied by expressions such as "kind", "type", "style", "imitation" or the like;
+
+3. to protect a geographical indication against a geographical indication which, although literally true as to the territory, region or locality in which the goods originate, falsely represents to the public that the goods originate in another territory;
+
+4. to protect their rights under the law and regulations against infringements by others such as to institute court action, [and] right to compensation from damages caused by others.
+
+Only producers who carry out business undertakings within the geographical region specified for the geographical indication may use the registered geographical indication on or in connection with the goods to which the geographical indication relates.
+
+Any act which is an infringement as described in item 1 or 2 of this Article shall be an act of unfair competition, including the use of any means in the designation or presentation of a good that indicates or suggests that the good originates in a geographical area other than its true place of origin and in a manner that misleads the public as to the geographical origin of the good.
+
+The rights provided in items 1 and 2 of this Article shall be applicable to an indication of goods that is confusingly similar to the protected geographical indication, or that is homonymous with it.
+
+ 
+
+Article 60 (revised). Rights of Proprietor of Trade Secret
+The proprietor of a trade secret has the following rights:
+
+1. to prevent trade secret information lawfully in his control from being disclosed to, acquired by, or used by others without their consent in a manner contrary to honest commercial practices, except:
+
+1.1. discovery of the information by reverse engineering, laboratory testing or analysis, or similar means;
+
+1.2. acquiring the information without an obligation of confidentiality or trust.
+
+2. to protect their rights under the law and regulations against infringements by others such as to institute court action, [and] right to compensation from damages caused by others;
+
+3. to prevent individual, legal entity or organization from misappropriating the trade secret;
+
+4. to disclose, withdraw or utilize trade secret or transfer to other person for disclosure, withdrawal or utilization of trade secret, by defining contents and requirements of keeping secret;
+
+5. to control any person who is lawfully in control of the trade secret from employment or a contract or other agreement, where such obligation of confidentiality shall remain in effect so long as the information remains secret even where the employment, contract or other agreement terminates sooner;
+
+No registration is required for trade Secret.
+
+ 
+
+Article 61 (revised). Protection of Test or Other Data
+Where marketing approval of pharmaceutical or of agricultural chemical products that utilize a new chemical entity is conditioned on the submission of undisclosed test or other data, the origination of which involves a considerable effort, such data shall be protected against unfair commercial use and against disclosure without the consent of the person that originated such data, provided however that such data may be disclosed to the extent necessary to protect the public. No person other than the person that submitted the data may, without the latter's permission, rely on such data in support of an application for product approval during a period of five years after the date on which the Lao PDR granted approval to market the product to the person that produced the data.
+
+Any act in violation of this Article shall be an act of unfair competition. The owner of data described in this Article shall have the right to take measures to enforce rights under this Article and shall have the right, subject to any exceptions provided in this Law, to institute court action against an individual or organization who performs such acts of unfair competition or who performs acts that make it likely that such acts of unfair competition will occur.
+
+ 
+
+Article 62. Obligations of the Industrial Property Owner
+An industrial property owner has following obligations:
+
+1. to be responsible for the protection and management of its rights through monitoring and inspection of the use of the industrial property as provided for in this law;
+
+2. to be responsible to encourage and promote the use of its industrial property by society based on mutual benefit;
+
+3. to be responsible for providing information about violations of its industrial property to the state organizations responsible for such activities;
+
+4. to make financial obligations to the state pursuant to laws and regulations derived from the exploitation, leasing, transfer or inheritance of the industrial property or arising from other benefits;
+
+5. to be responsible for coordinating the remedy of violations of its industrial property.
+
+Part 7. Limitation of Rights on Industrial Property
+ 
+
+Article 63 (revised). Authorization to exploit without permission of patent or petty patent owner
+By the Order of the Prime Minister, the Ministry of Science and Technology may authorize individual, legal entity or organization to produce, use, or importation of a patented invention or utility innovation without authorization from the patent or petty patent owner subject to the provisions of this article.
+
+1. Such authorization shall be permitted only in the following cases:
+
+1.1. in situations of national emergency or circumstances of critical and extreme urgency such as a disaster, epidemic, or war;
+
+1.2. for non-commercial use by the Government to meet the needs for public benefits, especially relating to national defence and public order, food, or public health, or for other urgent needs;
+
+1.3. to remedy a practice determined after judicial process to be anti-competitive and where the court is satisfied that the exploitation of the protected invention is necessary to correct the anti-competitive practice;
+
+1.4. For failure to work the invention or utility innovation so as to satisfy its reasonable demand in the Lao PDR.
+
+2. Each authorization of such use shall be considered on its individual merits, and the scope and duration of such use shall be limited to the purpose for which it was authorized. The right holder shall have the right to present evidence opposing the grant of such authorization, and to propose alternative terms to satisfy domestic demand for the invention or utility innovation;
+
+3. Such use shall be non-exclusive and non-transferrable, even in the form of the grant of a sub-license, except with that part of the enterprise or goodwill which enjoys such use;
+
+4. The authorization shall provide that the right holder shall be paid adequate remuneration in the circumstances of each case, taking into account the economic value of the authorization. The order granting the authorization shall specify the amount of compensation, or how it shall be determined, and any terms for payment thereof. The right holder shall have the right to propose terms for compensation, how it shall be determined, and terms for payment thereof. The need to correct anti-competitive practices may be taken into account in determining the amount of remuneration in cases under item 1.3 of this Article;
+
+5. the right holder may request the Ministry of Science and Technology to reconsider on the appropriate value of the compensation or unreasonable circumstances within sixty days from the date of receiving the notice;
+
+6. the Ministry of Science and Technology shall immediately notify of any decision to grant such authorization to the right holder and of any decision on the compensation to be paid to the right holder;
+
+7. for authorizations under items 1.1, 1.2 or 1.4 of this Article:
+
+7.1. any such use shall be authorized predominantly for the supply of the domestic market of the Lao PDR;
+
+7.2. such use shall only be permitted if, prior to such use, the proposed user has made efforts to obtain authorization from the patent or petty patent owner on reasonable commercial terms and conditions and that such efforts have not been successful within a reasonable period of time;
+
+7.3. the requirement of item 7.2 of this Article may be waived in case of a national emergency or circumstances of critical and extreme urgency, in which case the right holder shall, nevertheless, be notified as soon as reasonably practicable;
+
+7.4. The requirement of item 7.2 of this Article may be waived in cases of public non-commercial use. Where the Government or contractor, without making a patent or petty patent search, knows or has demonstrable grounds to know that a valid patent or petty patent is or will be used by or for the Government, the right holder shall be informed promptly.
+
+8. the legal validity of any decision relating to the authorization of such use, and any decision relating to the remuneration provided in respect of such use, shall be subject to judicial review. Any such appeal as to the grant of the authorization shall be filed within 60 days of the notice;
+
+9. where authorization is requested by a third party pursuant to item 1.4 of this Article, such request must satisfy the following requirements:
+
+9.1. the request shall not be submitted earlier than four years from the date of filing of the patent application or three years from the date of the grant of the patent, whichever period expires last;
+
+9.2. the party making such request shall present evidence that the demand for the patented invention or utility innovation is unmet in the Lao PDR, whether by local manufacture or importation, and that the party making the request has the ability to supply the invention or utility innovation on reasonable terms if the requested authorization is granted. Such evidence shall take into account the need to pay remuneration to the patent or petty patent owner;
+
+9.3. the Ministry of Science and Technology shall notify the patent or petty patent owner of the request within ninety days and shall provide the patent or petty patent owner with an opportunity to present evidence (if applicable), to justify the failure to satisfy demand for the invention or utility innovation by legitimate reasons; 9.4. such authorization shall be refused if the patent or petty patent owner justifies his failure to work or to satisfy demand in the Lao PDR by legitimate reasons.
+
+10. in no case shall such authorization operate to deprive the patent or petty patent owner of the right to continue to exploit the invention or utility innovation;
+
+11. an authorization granted herein may be amended as to its terms, taking into account the continued existence of an emergency or of a new emergency, subject to the provisions and protections provided herein;
+
+12. authorization for such use shall be liable, subject to adequate protection of the legitimate interests of the persons so authorized, to be terminated if and when the circumstances which led to it cease to exist and are unlikely to recur, or where the authorized party fails to fulfill the requirements contained in the order authorizing such party’s use of the invention or utility innovation:
+
+12.1. the Ministry of Science and Technology shall have the authority to review, upon request of the right holder or other concerned party, the continued existence of the circumstances that were the basis for such authorization;
+
+12.2. if it appears that the circumstances that were the basis for the authorization have ceased to exist and are likely to reoccur, the Ministry of Science and Technology may make reasonable provision to provide adequate protection of the legitimate interests of persons receiving such authorization;
+
+12.3. the Ministry of Science and Technology shall have the authority to refuse termination of authorization if and when the conditions which led to such authorization are likely to recur.
+
+ 
+
+Article 64 (revised). Non-Use of Trademarks
+A non-use of trademark is following cases:
+
+1. the trademark has not been used for a consecutive period of five years;
+
+2. the trademark has been used merely token use or such use not been in good faith by the owner. Any individual, legal entity or organization may request to the Ministry of Science and Technology to cancel the registration of the non-use of the trademark. In any cancellation proceeding, the owner shall be entitled to present reasons justifying the non-use of the trademark. Obstacles to such use arising independently of the will of the owner shall be recognized as valid reasons for non-use.
+
+A trademark is used if it is used on or in connection with the goods or services of the trademark for which it is registered, by the owner or by another with authorization of the owner and subject to the owner’s control.
+
+ 
+
+Article 65. Conditions on Layout-designs of Integrated Circuits
+In the case that a layout-design integrated circuit is exploited for commercial benefits, whether within or outside the country, the application for registration of the layout-design integrated circuit must be filed within two years of the first commercial exploitation of the layout-design of integrated circuit, in any event, the term shall not exceed 15 years from the date of creation.
+
+ 
+
+Article 66 (revised). Exploitation of Geographical indications
+Where the registrant fails to perform under the requirements of the registration of the geographical indications, individual, legal entity or organization may bring an action to the Ministry of Science and Technology to suspend the exploitation of a registered geographical indication. The Ministry of Science and Technology shall notify the registrant to perform under the requirements or within the time-period provided by the Ministry of Science and Technology. The Ministry of Science and Technology will order the suspension of the exploitation of such geographical indications if the registrant fails to perform under the requirements and within the time-period.
+
+Section IV. New Plant Variety
+Part 1. New Plant Variety Requirements
+ 
+
+Article 67 (new). Genera and Species
+The genera and species are described in the separate Regulations.
+
+ 
+Article 68 (revised). Requirements for Registration of New Plant Varieties
+The registration of a new plant variety shall meet all the following requirements:
+
+1. new;
+
+2. distinct;
+
+3. uniform;
+
+4. stable;
+
+5. the variety is designated by a denomination in accordance with the provisions of Article 73 of this Law.
+
+ 
+Article 69 (new). Novelty
+A variety shall be deemed to be new if, at the date of filing of the application for a breeder’s right, propagating or harvested material of the variety has not been sold or otherwise disposed of to others, by or with the consent of the breeder, for purposes of exploitation of the variety within the time period:
+
+1. more than one year before the date of filing of the national application; or
+
+2. earlier than four years, or in the case of trees or vines, earlier than six years before the said date in any other territory.
+
+ 
+Article 70 (new). Distinctness
+The variety shall be deemed to be distinct if it is clearly distinguishable from any other variety whose existence is a matter of common knowledge at the time of the filing of the application.
+
+ 
+Article 71 (new). Uniformity
+The variety shall be deemed to be uniform if, subject to the variation that may be expected from the particular features of its propagation, it is sufficiently uniform in its relevant characteristics.
+
+ 
+Article 72 (new). Stability
+The variety shall be deemed to be stable if its relevant characteristics remain unchanged after repeated propagation or, in the case of a particular cycle of propagation, at the end of each such cycle.
+
+ 
+Article 73 (new). Variety Denomination
+New plant variety shall denominate the following requirement:
+
+1. Each variety shall be designated by a denomination which will be its generic designation. No rights in the designation registered as the denomination of the variety shall hamper the free use of the denomination in connection with the variety, even after the expiration of the breeder’s right;
+
+2. A proposed denomination must enable the variety to be identified. It must not be liable to mislead or to cause confusion concerning the characteristics, value or identity of the variety or the identity of the breeder. It must be different from every denomination which designates, in the territory of the Lao PDR or any foreign country, an existing variety of the same plant species or of a closely related species;
+
+3. The denomination shall be registered at the same time as the breeder’s right is granted in accordance with requirements set forth in the Regulations.
+
+4. Any individual, legal entity or organization who, within the territory of the Lao PDR, offers for sale or markets propagating material of a variety protected within the said territory shall be obliged to use the denomination of that variety, even after the expiration of the breeder’s right in that variety, except where prior rights prevent such use;
+
+5. When a variety is offered for sale or marketed, it shall be permitted to associate a trademark, trade name or other similar indication with a registered variety denomination. If such an indication is so associated, the denomination must nevertheless be easily recognizable.
+
+Part 2. Registration of New Plant Varieties
+ 
+Article 74 (revised). Eligibility to Submit an Application
+Any individual, legal entity or organization eligible to submit an application is as follows:
+
+1. any breeder as defined above may file an application for breeder’s rights;
+
+2. where two or more persons have jointly bred a new variety, such persons may jointly apply for plant breeder’s rights. In the absence of any special declaration of the apportionment of ownership, they are presumed to be owners of equal part of the concerned variety;
+
+3. a foreign individual, legal entity or organization shall enjoy within the territory of the Lao PDR the same treatment as is accorded to Lao nationals, subject to the requirement that a party that does not have a residence or business premises shall appoint a representative with such premises in the Lao PDR.
+
+ 
+Article 75 (revised). Priority
+A claim of priority is as follows:
+
+1. the application for registration of a new plant variety shall enjoy a right of priority for the purpose of filing an application for the grant of a breeder's right in the Lao PDR for a period of 12 months from the date of filing the first application, provided that such first filing was in a country that grants plant variety protection rights to plant breeders from the Lao PDR. The day of filing shall not be included in the twelve-month period.
+
+2. an applicant wishing to benefit from the right of priority shall, in the subsequent application, claim the priority of the first application and shall furnish, with the application or within a period of three months from the filing date of the Lao application, a copy of the documents that constitute the first application, certified to be a true copy by the authority with which that application was filed, together with samples or other evidence that the variety which is the subject matter of both applications is the same.
+
+3. the breeder shall be allowed a period of two years after the expiration of the period of priority or, where the first application is rejected or withdrawn, an appropriate time after such rejection or withdrawal, in which to furnish, to the Ministry of Science and Technology, any necessary information, document or material required for the purpose of the examination under Article 77 of this Law.
+
+4. events occurring within the period provided for in item 2 of this Article, such as the filing of another application or the publication or use of the variety that is the subject of the first application, shall not constitute a ground for rejecting the subsequent application. Such events shall also not give rise to any third-party right.
+
+ 
+Article 76 (revised). Application for Registration
+Any individual, legal entity or organization eligible to apply for plant breeders rights may file an application to register a plant variety at Ministry of Science and Technology. Each application for registration of new plant variety shall relate to a single plant variety. An application for plant variety protection and any accompanying material may be filed in either the Lao language or in the English language.
+
+Such filing will be sufficient to establish a filing date or date of submission for the application or other materials, provided however, that for any application or document filed or submitted in English, the applicant must, within 90 days of such filing or submission, supply a translation into the Lao language. Such translation must be certified to be a correct translation.
+
+Such application shall include the following elements:
+
+1. request for plant breeder’s right;
+
+2. name of the breeder, and if applicant is not the breeder, a statement of the basis of applicant's ownership;
+
+3. if represented, a power of attorney and the name and address of the representative;
+
+4. proposed new denomination;
+
+5. description of the variety setting forth its distinctiveness, uniformity, and stability and a description of the genealogy and breeding procedure;
+
+6. a viable sample of the propagating material of the new variety or statement related to propagating material;
+
+7. where available, such data as required to determine whether the requirements of distinctiveness, uniformity, and stability have been met;
+
+8. such other information as may be required by the Ministry of Science and Technology;
+
+9. receipt for payment of the applicable fee.
+
+An application may include a claim for priority as provided in Article 75 of this Law.
+
+The Ministry of Science and Technology shall accept the application and assign a filing date to an application that contains the name and address of the applicant, description of the variety, and filing fee, provided that to obtain a plant variety certificate all the requirements of this Article must be satisfied within the times set.
+
+ 
+Article 77 (revised). Examination
+An application for plant variety protection shall be subject to an examination for formalities and a substantive examination for compliance with the conditions and shall be published as set forth in the Regulations.
+
+In the course of the examination, the Ministry of Science and Technology may cause the growing of the variety or the carrying out of other necessary tests, or take into account the results of growing tests or other trials which have already been carried out.
+
+Where an application has been filed in another country, the applicant may furnish the application and examination report from the plant variety authority in such country and request that such report be adopted. If the Ministry of Science and Technology finds such information insufficient to conduct its examination, it may require further data or may conduct its own growth trials at applicant’s expense.
+
+An applicant may add to or correct the description at any time before the certificate is issued, upon a showing acceptable to the Ministry of Science and Technology that the revised description is retroactively accurate, but subject to preventing an injustice to third parties.
+
+Part 3. Rights and Obligations of the New Plant Variety owner
+ 
+Article 78 (revised). Rights of the Plant Variety Owner
+The new plant variety owner has rights as follows:
+
+1. to prevent individual, legal entity or organization:
+
+1.1. production or reproduction;
+
+1.2. conditioning for the purpose of propagation;
+
+1.3. offering for sale;
+
+1.4. selling or other marketing;
+
+1.5. exporting, importing;
+
+1.6. stocking for any of the purposes mentioned in items 1.1 to 1.5, above.
+
+2. to make his authorization subject to conditions and limitations;
+
+3. to protect their rights under the law and regulations against infringements by others such as to institute court action, [and] rights to compensation from damages caused by others.
+
+The acts referred to in items 1.1 to 1.5 of this Article in respect of harvested material, including entire plants and parts of plants, obtained through the unauthorized use of propagating material of the protected variety shall require the authorization of the breeder, unless the breeder has had reasonable opportunity to exercise his right in relation to the said propagating material. The provisions of this paragraph shall likewise apply in respect of products made directly from harvested material of the protected variety.
+
+The provisions of paragraphs 1 and 2 of this Article shall also apply in relation to the varieties as follows:
+
+1. varieties which are essentially derived from the protected variety, where the protected variety is not itself an essentially derived variety;
+
+2. varieties which are not clearly distinguishable in accordance with Article 70 of this Law from the protected variety;
+
+3. varieties whose production requires the repeated use of the protected variety.
+
+No individual, legal entity or organization other than the plant variety owner shall undertake any of the acts described in paragraphs 1 through 3 of this Article in the Lao PDR without authorization by the plant variety owner, and except as otherwise provided in this Law.
+
+ 
+Article 79 (revised). Term of Protection of the New Plant Varieties
+The term of protection of the new plant variety shall be, for trees and vines, a fixed period of 25 years from the date of grant of the breeder’s right and for other varieties of plants, 20 years from the date of grant of the breeder’s right.
+
+In order to maintain the term of protection, the new plant variety owner shall pay annual fees in advance.
+
+ 
+Article 80 (new). Provisional Protection
+During the period between the publication of the application for the grant of a breeder’s right and the grant of that right, the holder of a breeder’s right shall be entitled to equitable remuneration from any person who, during the said period, has carried out acts which, once the right is granted, require the breeder’s authorization as provided in Article 78 of this Law.
+
+ 
+Article 81. Obligation of the New Plant Variety Owner
+The owner of the new plant variety has obligation as the same as industrial property owner under Article 62 of this law.
+
+Part 4. Exceptions and Limitations Relating to New Plant Varieties
+ 
+Article 82 (revised). Exceptions to the Breeder’s Right
+The exceptions to the breeder’s right are as follows:
+
+1. The breeder’s right shall not extend to:
+
+1.1. acts done privately and for non-commercial purposes;
+
+1.2. acts done for experimental purposes;
+
+1.3. acts done for the purpose of breeding other varieties, and, except where the provisions of paragraph 3 of Article 78 of this Law apply, the acts of production or reproduction (multiplication), conditioning for the purpose of propagation, offering for sale, or selling or other marketing in respect of such other varieties.
+
+2. Notwithstanding Article 78, a farmer may use for propagating purposes, on his or her own holdings, the product of the harvest obtained by such farmer by planting on his or her own holdings, the protected variety or a variety covered by Article 78 paragraph 3, items 1 or 2, provided that such protected variety was obtained with the authorization of the holder of the plant variety protection granted hereunder.
+
+ 
+Article 83 (new). Exhaustion of the Breeder’s Right
+The breeder’s right shall not extend to acts concerning any material of the protected variety, or of a variety covered by the provisions of paragraph 3 of Article 78 of this Law, which has been sold or otherwise marketed by the breeder or with his consent in the territory of the Lao PDR, or any material derived from the said material, unless such acts as follows:
+
+1. involve further propagation of the variety in question;
+
+2. involve an export of material of the variety, which enables the propagation of the variety, into a country which does not protect varieties of the plant genus or species to which the variety belongs, except where the exported material is for final consumption purposes.
+
+For the purposes of paragraph (1) of this Article, “material” means, in relation to a variety:
+
+1. propagating material of any kind;
+
+2. harvested material, including entire plants or parts of plants;
+
+3. any product made directly from the harvested material.
+
+ 
+Article 84 (new). Measures Regulating Commerce
+The grant of a breeder's right shall not be construed as authorizing any person to exploit it freely in the territory of the Lao PDR, but depending on administrative measures of the concerned authorities such as:
+
+1. a new plant variety that has a serious direct or indirect impact on sanitation, environment or Laws and Regulations;
+
+2. a new plant variety derived from genetic modification which has not been evaluated with regard to safety, environment, health, Laws and Regulations as prescribed by the relevant authorities or to take any other action violating Laws and Regulations of Lao PDR.
+
+ 
+Article 85 (new). Nullity of the Breeder’s Right
+A breeder’s right granted by the Lao PDR shall be nullified as following cases:
+
+1. that the conditions laid down in Articles 69 or 70 or 71 of this Law, are not complied with at the time of the grant of the breeder’s right;
+
+2. that the breeder’s right has been granted to a person who is not entitled to it, unless it is transferred to the person who is so entitled. No breeder’s right shall be declared null and void for reasons other than those referred to in paragraph 1 of this Article.
+
+ 
+Article 86 (new). Cancellation of the Breeder’s Right
+A breeder’s right granted by the Lao PDR may be canceled as following cases:
+
+1. the conditions laid down in Articles 70 or 71 of this Law are no longer fulfilled;
+
+2. after being requested to do so and within a prescribed period, the breeder does not provide the authority with the information, documents or material deemed necessary for verifying the maintenance of the variety;
+
+3. the breeder fails to pay such fees as may be payable to keep his right in force;
+
+4. the breeder does not propose another suitable denomination, where the denomination of the variety is cancelled after the grant of the right.
+
+No breeder’s right shall be cancelled for reasons other than those referred to in paragraph 1 of this Article.
+
+ 
+Article 87 (revised). Restrictions Based on Public Interests
+Where it is necessary to meet an urgent public needs and to ensure food supply or to prevent commercial monopolies, the government can issue notifications allowing the exploitation of a protected variety without the authorization of the right owner. Procedures and conditions for such authorization shall be as provided for patents, mutatis mutandis, as prescribed in the Article 63 of this Law.
+
+Section V. Copyright and Related Rights
+Part 1. Protection of Copyright
+ 
+Article 88 (revised). Works Eligible for Protection
+Copyright shall be available to every production in the literary, scientific and artistic domain, whatever may be the mode or form of its expression, provided it is the original creation of its author. In particular, copyright shall be available for:
+
+1. Artistic works include such works as:
+
+1.1. drawings, paintings, carvings, lithography, tapestry or embroidery and other works of fine art;
+
+1.2. sculptures, engravings and other works of sculpture;
+
+1.3. designs of buildings or construction, internal or external decorations designs and other architectural works;
+
+1.4. photographs using technical methods and works expressed by an analogous process;
+
+1.5. illustrations, maps, plans, sketches and three dimensional works related to geography, topography, architecture or science;
+
+1.6. dramatic-musical works, pantomimes or drama, choreographic works and other works created for performance;
+
+1.7. musical compositions with or without lyrics including edited notes or tunes;
+
+1.8. phonogram;
+
+1.9. works of applied art;
+
+1.10. film or other cinematographic works or works expressed by an analogous process, and including an audiovisual work which consist of sequence of images which can be continuously projected as moving pictures and can be recorded upon other materials so as to be also continuously projected as moving pictures including the sound tracks of such work.
+
+2. Works of literature include such works as:
+
+2.1. books, thesis, brochures, magazines, printed matters and other writings works;
+
+2.2. lectures, speeches, addresses, discourses, sermons and other oral works recorded;
+
+2.3. dramas, stories, poems;
+
+2.4. computer programs and data compilations, whether in source or object code;
+
+3. Collections of literary or artistic works, such as encyclopedias, anthologies or compilations of data by reason of the selection and arrangement of their contents, such collections or compilations constitute intellectual creations;
+
+For purposes of copyright, a work is created when it is fixed in a tangible medium.
+
+ 
+Article 89 (revised). Derivative Works
+Derivative works shall be protected as original works without prejudice to the rights of the author of the original work on which the derivative work is based.
+
+ 
+Article 90 (revised). Items Ineligible for Copyright Protection
+The following are ineligible for copyright protection:
+
+1. news of the day or miscellaneous facts having the character of mere items of press information;
+
+2. ideas, procedures, methods of operation or mathematical concepts as such;
+
+3. official texts of a legislative, administrative and legal nature, and official translations of such texts.
+
+Part 2. Protection of Related Rights
+ 
+Article 91 (revised). Persons Eligible for Protection
+The person eligible for protection of related rights shall be as follows:
+
+1. Performers, including actors, singers, musicians, dancers, and other persons who act, sing, deliver, declaim, play in, or otherwise perform literary or artistic works or expressions of folklore;
+
+2. Producers of phonograms who take the first fixation of the sounds of a performance or other sounds, or the representations of sounds;
+
+3. Broadcasters and broadcasting organizations that initiated and made the radio broadcast, image broadcast or sound-image broadcast.
+
+ 
+Article 92 (revised). Eligibility for Protection of Related Rights
+The following shall be eligible for the protection of related rights:
+
+1. Performances:
+
+1.1. performances in the country or abroad by Lao citizens, aliens or stateless persons residing in Lao PDR;
+
+1.2. performances by foreign nationals in the Lao PDR;
+
+1.3. performances which are protected under international conventions to which the Lao PDR is a party.
+
+2. Production of phonograms:
+
+2.1. production of phonograms in the country or abroad by Lao citizens, aliens or stateless persons residing in the Lao PDR;
+
+2.2. production of phonograms by foreign nationals in the Lao PDR;
+
+2.3. production of phonograms which are protected under international conventions to which the Lao PDR is a party.
+
+3. broadcasting or broadcasting of a satellite signal carrying encrypted or unencrypted programs:
+
+3.1. broadcasting or broadcasting of a satellite signal carrying encrypted or unencrypted programs in the country or abroad by Lao citizens, aliens or stateless persons residing in the Lao PDR;
+
+3.2. broadcasting or broadcasting of a satellite signal carrying encrypted or unencrypted programs by foreign nationals in the Lao PDR;
+
+3.3. broadcasting or broadcasting of a satellite signal carrying encrypted or unencrypted programs which are protected under international conventions to which the Lao PDR is a party.
+
+Performances, phonograms and broadcasts satellite signal carrying encrypted or unencrypted programs shall be protected as stipulated in Items 1, 2 and 3 of this Article without prejudice to copyright in the works.
+
+Part 3. Notification of Copyright or Related Rights
+ 
+Article 93 (revised). Notification of Copyright or Related Rights
+Copyright or related rights are the rights which arise immediately when the work is created without registration requirement, but a notification of rights can be recorded with the Ministry of Science and Technology for evidence or for record especially in case of violation or dispute.
+
+ 
+Article 94 (revised). Recording the Copyright or Related Rights Notification
+Upon copyright or related right notification application, the Ministry of Science and Technology shall enter the notification into the records and issue a receipt for evidence, provided the application satisfies the specified requirements. The copyright or related rights notification shall indicate the name of the author, title of the work including date of creation but shall not determine the rights of the applicant.
+
+Part 4. Copyright Owners
+ 
+Article 95 (revised). Copyright Owners
+The owner of copyright in a work of authorship shall be the author. Where a work is made jointly, ownership shall belong jointly to the authors unless otherwise agreed.
+
+Where a work is made in the course of employment, the owner shall be the employer unless otherwise agreed.
+
+Copyright ownership and any economic rights there under may be assigned by contract or transferred by inheritance.
+
+Any person acquiring or holding any copyright ownership and economic rights by virtue of a contract, including employment contracts under which a work or sound recording is created, shall be able to exercise those rights in its own name and enjoy fully the benefits derived from those rights.
+
+ 
+Article 96 (revised). Creative Contributors to Performances and Cinematographic Works
+Persons who make creative contributions to a performance or cinematographic work, including the director, editors, camera operators, stage managers, composers, scenarists, sound technicians, lighting technicians, studio artists, studio-instrument managers, technical managers and others who made contributions of a like nature, shall be considered joint authors of the cinematographic work.
+
+Such contributing authors shall be entitled to be named for their contribution unless it is not feasible under the circumstances.
+
+Notwithstanding paragraph 1, unless otherwise agreed in writing, such authors shall not have the right to object to the reproduction, distribution, public performance, communication to the public by wire, broadcasting or any other communication to the public, or to the subtitling or dubbing of texts, of the work. This paragraph shall not apply to authors of scenarios, dialogues and musical works created for the making of the cinematographic work, or to the principal director thereof.
+
+ 
+Article 97 (new). Moral Rights
+Even where an author is no longer the owner of the economic rights to a work, that author shall have the following moral rights:
+
+1. first disclosure and first publication of the work;
+
+2. attribution, which shall include
+
+1.1. to claim authorship of the work;
+
+1.2. to have his or her name shown and used in connection with publicity concerning the work;
+
+1.3. to use a pseudonym or to publish the work anonymously;
+
+1.4. to object to any misattribution of the work to another;
+
+1.5. to object to the use of his or her name in connection with a work that he or she did not in fact author or that has been modified by another;
+
+3. to object to any distortion, mutilation or other modification of the work, or other action in relation to the work, where such action would be prejudicial to the author's honor or integrity.
+
+A person who is not the author of a work for which his or her name is used shall have the same right as provided in item 3 of this Article. The rights of first disclosure and first publication shall be available to the author during his or her lifetime, after which such rights shall terminate unless the author has provided in writing for the exercise of such rights after the author’s death. Rights under items 2.1, 2.2, 2.3 and 3 of this Article shall last until the end of the term of the economic rights of the author. Rights under items 2.4, 2.5 and paragraph 2 of this Article shall be exercisable by any interested party without limitation in time.
+
+ 
+Article 98 (new). Economic Rights
+The author or other copyright owner of literary or artistic works shall have the exclusive right to carry out or authorize the following acts in relation to his or her works:
+
+1. making a collection of such works;
+
+2. reproducing such work in any manner or form including distribution of copies of such works;
+
+3. making the translation of such works;
+
+4. broadcasting such works;
+
+5. communicating such works to the public by any wire or wireless diffusion or by rebroadcasting;
+
+6. communicating the broadcast of the work to the public by loudspeaker or any other analogous instrument transmitting, by signs, sounds or images.
+
+In the absence of any contrary stipulation, permission granted in accordance with item 4 of this Article shall not imply permission to record, by means of instruments recording sounds or images, the work broadcast.
+
+For literary works, the author or other copyright owner of literary or artistic works shall have the exclusive right to carry out or authorize the following acts in relation to his or her works:
+
+1. recitation their works to the public by any means or process;
+
+2. communicating to the public of the recitation of their works.
+
+3. translating the recitation of their works.
+
+For dramatic, dramatic-musical and musical works, the author or other copyright owner of literary or artistic works shall have the exclusive right to carry out or authorize the following acts in relation to his or her works:
+
+1. performing their works to the public, including such public performance by any means or process;
+
+2. communicating to the public of the performance of their works.
+
+3. translating such performance of works.
+
+The author or other copyright owner shall have the exclusive right to carry out or authorize the adaptation, arrangement, or other alteration of their works as follows:
+
+1. making cinematographic adaptation and reproduction of literary or artistic works, and the distribution of the works thus adapted or reproduced;
+
+2. making the public performance and communication to the public by wire or otherwise of the works thus adapted or reproduced.
+
+The author or other copyright owner shall have the exclusive right to carry out or authorize or prohibit:
+
+1. the direct or indirect reproduction, in whole or in part, of a sound recording, computer programs or compilation of data or other materials;
+
+2. the importation into the Lao PDR of copies of a sound recording, regardless of whether such copies have been placed on the market by the relevant right holder;
+
+3. the first public distribution of the original and each copy of the sound recording by sale, rental or otherwise;
+
+4. the rental, lease or lending of the original or a copy of an audiovisual work, a sound recording, or a musical work in the form of notation, for the purposes of direct or indirect commercial advantage.
+
+5. for a computer program or a data base, the rights provided in item 4 of this paragraph except where the copy of a computer program is not itself an essential object of the rental. Putting the original or a copy of a computer program on the market with the right holder's consent shall not exhaust the rental right.
+
+The author or other copyright owner shall have the exclusive right to carry out or authorize the importation or exportation of the original or any copy of the work. This right shall not extend to prevent the subsequent importation or exportation of an original or copy that was legally acquired with the authorization of the owner of copyright or related rights.
+
+The author or other copyright owner of literary or artistic works, shall have the exclusive right to carry out or authorize:
+
+1. the cinematographic adaptation and reproduction of these works, and the distribution of the works thus adapted or reproduced;
+
+2. the public performance and communication to the public by wire or wireless of the works thus adapted or reproduced.
+
+The adaptation into any other artistic form of a cinematographic production derived from literary or artistic works shall, without prejudice to the authorization of the author of the cinematographic production, remain subject to the authorization of the authors of the original works.
+
+The author or other copyright owner of literary, dramatic, dramatico-musical works, musical works, choreographic works, pantomimes, and motion pictures and other audiovisual works, including the individual images of a motion picture or other audiovisual work shall have the exclusive right to authorize:
+
+1. the public performance of their works, including such public performance by any means or process; and in particular, in the case of sound recordings, to perform the copyrighted work publicly by means of a digital audio transmission;
+
+2. any communication to the public of the performance of their works;
+
+3. translations of the performance of their works.
+
+ 
+Article 99 (new). Infringement of Moral and Economic Rights
+No individual, entity or organization other than the author shall undertake any of the acts described in Article 97 of this Law without authorization by the author, and except as otherwise provided in this Law, any such acts without authorization shall be considered to be an act of infringement of the author’s moral rights.
+
+No individual, entity or organization other than the author shall undertake any of the acts described in Article 98 of this Law without authorization by the author, and except as otherwise provided in this Law, any such acts without authorization shall be considered to be an act of infringement of the author’s economic rights.
+
+The author or copyright owner has the right to protect their rights under the law and regulations against infringements of their moral or economic rights by others such as right to institute court action, [and] right to compensation from damages caused by others.
+
+ 
+Article 100 (revised). Copyright on Computer Programs and Data Compilations
+Computer program is a set of instructions or any other thing used by a computer to make it work or to generate certain results no matter what the computer language is. Computer programs shall be protected as literary works, whether in source or object code.
+
+Compilations of data or other material, whether in machine readable or other form, which by reason of the selection or arrangement of their contents constitutes intellectual creations, shall be protected as literary works. Protection of such works shall not extend to the data or material itself, or prejudice any copyright subsisting in that data or material.
+
+ 
+Article 101 (new). Traditional Literary and Artistic Works
+A work based on a traditional literary or artistic work shall be protected under copyright without prejudice to the rights of others to make original works based on the same traditional literary or artistic work and to continue to exploit the traditional literary and artistic works.
+
+A collection of traditional literary or artistic works shall be protected under copyright without prejudice to the rights of others to make a similar collection or to continue to tell the stories or otherwise reproduce, modify, or sell the traditional works included in such collection.
+
+Part 5. Related Rights Owners
+ 
+Article 102 (revised). Related Rights Owners
+Related rights owners are as follows:
+
+1. performers;
+
+2. phonogram producers;
+
+3. broadcasters and broadcasting organizations.
+
+ 
+Article 103 (new). Moral Rights of Performers
+Independently of a performer's economic rights, and even after the transfer of those rights, the performer shall, as regards his live aural performances or performances fixed in phonograms, have the right to claim to be identified as the performer of his performances, except where omission is dictated by the manner of the use of the performance, and to object to any distortion, mutilation or other modification of his performances that would be prejudicial to his honor and reputation.
+
+The rights granted to a performer in accordance with this paragraph shall, after his death, be maintained until the expiry of the economic rights and shall be exercisable by the performer’s heirs unless the performer has provided for the exercise of such rights by another.
+
+ 
+Article 104 (new). Economic Rights of Performers
+Performers shall enjoy the exclusive right to the following acts:
+
+1. As regards their unfixed performances:
+
+1.1. the broadcasting and communication to the public of their unfixed performances except where the performance is already a broadcast performance;
+
+1.2. the fixation of their unfixed performances.
+
+2. The direct or indirect reproduction of their performances fixed in phonograms, in any manner or form;
+
+3. The making available to the public of the original and copies of their performances fixed in phonograms through sale or other transfer of ownership, provided that such right shall not extend to subsequent sales or other transfers of ownership of the original and of the same copy of the fixed performance that has been lawfully sold or otherwise transferred with authorization of the performer;
+
+4. The commercial rental to the public of the original and copies of their performances fixed in phonograms, even after such phonograms have been distributed by, or pursuant to, authorization by the performer;
+
+5. The making available to the public of their performances fixed in phonograms, by wire or wireless means, in such a way that members of the public may access them from a place and at a time individually chosen by them;
+
+6. The transferring to own performances work freely with contract or inheritance.
+
+ 
+Article 105 (revised). Rights of Producers of Phonograms
+Producers of phonograms shall enjoy the exclusive right to the following acts:
+
+1. The direct or indirect reproduction of their phonograms, in any manner or form;
+
+2. The making available to the public of the original and copies of their phonograms through sale or other transfer of ownership, provided that such right shall not extend to subsequent sales or other transfers of the original and of the same copy that has been lawfully sold or otherwise transferred with authorization of the producer of the phonogram;
+
+3. The commercial rental to the public of the original and copies of their phonograms, even after distribution of them by or pursuant to authorization by the producer;
+
+4. The making available to the public of their phonograms, by wire or wireless means, in such a way that members of the public may access them from a place and at a time individually chosen by them;
+
+5. The transferring to own phonograms work freely with contract or inheritance.
+
+ 
+Article 106 (new). Rights of Performers and Producers of Phonograms to Remuneration
+Performers and producers of phonograms shall enjoy the right to a single equitable remuneration for the direct or indirect use of phonograms published for commercial purposes for broadcasting or for any communication to the public. Phonograms made available to the public by wire or wireless means in such a way that members of the public may access them from a place and at a time individually chosen by them shall be considered as if they had been published for commercial purposes.
+
+The remuneration shall be as provided by agreement between performers and producers of phonograms.
+
+ 
+Article 107 (revised). Rights of Broadcasters and Broadcasting Organizations
+Broadcasters and broadcasting organizations shall enjoy the exclusive right of authorizing the following acts:
+
+1. The fixation of their broadcasts;
+
+2. The reproduction of fixations of their broadcasts;
+
+3. The rebroadcasting by wireless means of their broadcasts;
+
+4. The communication to the public of television broadcasts of their broadcasts;
+
+5. The transferring to own broadcasts work freely with contract or inheritance.
+
+ 
+Article 108 (revised). Infringement of Related Rights
+The provisions of Article 99 shall apply mutatis mutandis to the related rights of performers, producers of phonograms, broadcasters and broadcasting organizations as set forth in Articles 103, 104, 105, 106, and 107 of this Law.
+
+Part 6. Term of Protection of Copyright and Related Rights
+ 
+Article 109 (revised). Term of Copyright Protection
+The term of copyright shall begin on the date the work is created and shall continue to the end of the calendar year of the dates described below:
+
+1. Except as otherwise provided in this article, fifty years after the date of death of the author, or for a work of joint authorship, fifty years after the date of death of the last surviving author;
+
+2. For anonymous or pseudonymous works, fifty years from the date the work was lawfully made available to the public, provided, however, that the term shall be as provided in item 1 of this Article where:
+
+2.1. the pseudonym adopted by the author leaves no doubt as to his identity;
+
+2.2. the author of an anonymous or pseudonymous work discloses his identity during the above-mentioned period.
+
+3. For a cinematographic work, fifty years from the date the work was made available to the public with the consent of the author, or, failing such an event within fifty years from the making of such a work, fifty years from the making.
+
+4. For applied art, twenty-five years from the date of creation.
+
+In the case that there is an international convention, which the Lao PDR is a party or an international agreement to which the Lao PDR is a signatory, the term of protection shall be as, determined in such convention or agreement.
+
+ 
+Article 110 (revised). Term of Related Rights Protection
+The term of related rights protection is as follows:
+
+1. for performers, the term of protection shall begin with the date of the performance and last until the end of a period of 50 years from the end of the calendar year in which the performance was fixed in a phonogram;
+
+2. for producers of phonograms, the term of protection shall begin with the date the phonogram is first fixed and last until the end of a period of 50 years from the end of the calendar year in which the phonogram was published, or failing such publication within 50 years from fixation of the phonogram, the term of protection of the phonogram shall last until 50 years from the end of the calendar year in which the fixation was made;
+
+3. for broadcasters and broadcasting organizations, the term of protection shall begin with the date of the broadcast and shall last until the end of a period of 50 years from the end of the calendar year in which the program was first broadcast;
+
+In the case that there is an international convention which the Lao PDR is a party or an international agreement to which the Lao PDR is a signatory, the term of protection shall be as determined in such convention or agreement.
+
+Part 7. Limitations and Obligations of Copyright and Related Rights
+ 
+Article 111 (new). Acts Consistent with Fair Use
+The following acts shall be permissible without consent of the author, and without remuneration:
+
+1. making quotations from a work which has already been lawfully made available to the public, provided that their making is compatible with fair use, and their extent does not exceed that justified by the purpose, including quotations from newspaper articles and periodicals in the form of press summaries;
+
+2. utilization, to the extent justified by the purpose, of literary or artistic works by way of illustration in publications, broadcasts or sound or visual recordings for teaching, provided such utilization is compatible with fair practice;
+
+3. reproducing, by photography or cinematography, images of works of fine art, photographs, and other artistic works, and works of applied art, provided such works have already been published, publicly displayed, or communicated to the public, where such reproduction is incidental to the photographic or cinematographic work and is not the object of the photographic or cinematographic work;
+
+4. Translating literary works into Braille or other characters for visually-impaired persons;
+
+5. Reproducing a computer program where such reproduction occurs in the ordinary operation of the computer program, providing the use of the computer program is consistent with terms of authorization of the copyright owner;
+
+6. Reproducing a work embodied in electronic media for backup or archival storage, or for replacement of a legally acquired work that is lost, destroyed or fails to work.
+
+Where use is made of works in accordance with items 1 and 2 of this Article, mention shall be made of the source and of the name of the author if it appears thereon.
+
+The following acts shall be permissible without consent of the author, and without remuneration, provided such acts are consistent with fair use, provided the source is clearly indicated:
+
+1. Reproduction by the press, the broadcasting or the communication to the public by wire of articles published in newspapers or periodicals on current economic, political or religious topics;
+
+2. Broadcast of works of the same character, in cases in which the reproduction, broadcasting or such communication thereof is not expressly reserved;
+
+For the purpose of reporting current events by means of photography, cinematography, broadcasting or communication to the public by wire, literary or artistic works seen or heard in the course of the event may, to the extent justified by the informatory purpose, be reproduced and made available to the public.
+
+The above acts shall not conflict with a normal exploitation of the work and shall not unreasonably prejudice the legitimate interests of the author.
+
+A determination of whether a use as above constitutes a fair use shall take into account the circumstances as a whole as further described in a specific regulation.
+
+The provisions of this article will not apply to:
+
+1. reproduction of architectural works, including by construction of the work;
+
+2. reproduction that requires circumvention of technological measures to protect copyright or related rights, or the unauthorized removal or alteration of electronic rights management information.
+
+ 
+Article 112 (revised). Limitations and Exceptions to Related Rights
+The limitations and exceptions applicable to copyright shall likewise apply to related rights, mutatis mutandis.
+
+ 
+Article 113. Obligations of the Copyright and Related Rights Owner
+The obligations of the copyright and related rights owner shall be implemented pursuant to Article 62 of this Law.
+
+Section 8. Collective Management Organizations
+ 
+Article 114 (new). Collective Management Organizations
+Collective management organizations are associations managing copyright and related rights, established on the basis of agreement among authors, copyrights owners, related rights owners, to operate in accordance with the law in order to protect copyrights and related rights.
+
+ 
+Article 115 (new). Role of Associations Managing Copyright and Related Rights
+Associations managing copyright and related rights shall perform the following roles:
+
+1. To manage copyright and related rights on behalf of authors, copyrights owners, related rights owners; to negotiate on licensing, the collection of remuneration on behalf of such persons, and to divide and distribute royalties, remuneration and other material benefits there from the allowance of exploiting the authorized rights;
+
+2. To protect member’s rights and legal benefits, including to represent the persons mentioned in item 1 above in legal proceedings, and to reconcile any dispute on their behalf.
+
+ 
+Article 116 (new). Rights and Obligations of Associations Managing Copyright and Related Rights
+The associations managing copyright and related rights shall have the rights and obligations as follows:
+
+1. to establish encouraging creation activities and other social activities;
+
+2. to cooperate with correlative national and international organizations on the protection of copyright and related rights;
+
+3. to make report on collective management to competent authorities;
+
+4. other rights and obligations according to the provisions of this Law.
+
+Section VI. Violations of Intellectual Property and Unfair Competition
+Part 1. Violations of Intellectual Property
+ 
+Article 117 (revised). Violations of Industrial Property Rights
+Violations of industrial property are any acts as provided in Article 55 to 61 of this Law without authorization from industrial property owner.
+
+The acts set forth in paragraph 1 above shall not constitute a violation of industrial property where:
+
+1. the claimed right is invalid because the conditions for protection have not been satisfied;
+
+2. the term of protection has expired or the right is no longer in effect;
+
+3. where authorization of the owner is required, the owner has granted such authorization or, for patents or petty patents, authorization has been granted pursuant to an order under Article 63 of this Law;
+
+4. the use on board vessels of other countries of devices forming the subject of a patent in the body of the vessel, in the machinery, tackle, gear and other accessories, when such vessels temporarily or accidentally enter the waters of the Lao PDR, provided that such devices are used in this country exclusively for the needs of the vessel;
+
+5. the use of devices forming the subject of the patent in the construction or operation of aircraft or land vehicles of other countries, or of accessories of such aircraft or land vehicles, when those aircraft or land vehicles temporarily or accidentally enter the Lao PDR;
+
+6. exceptions or limitations set forth in this Law.
+
+ 
+Article 118 (revised). Violation of Plant Variety Rights
+Violations of plant variety rights are as follows:
+
+1. carrying out any of the acts prohibited under Article 78 of this Law without the authorization of the owner of the rights with regard to a plant variety that is still under the term of protection;
+
+2. carrying out any of the acts mentioned in item 1 of this Article with the authorization of the owner of the rights without remunerating the owner of the rights as provided in the terms on which such authorization is provided, or otherwise violating the terms of such authorization;
+
+3. using a plant variety denomination for a different variety where the variety used is the same as or similar to the denomination of a new plant variety in the same group which is already protected;
+
+4. using an approved denomination in connection with a different plant variety.
+
+It shall not be a violation to carry out any of the acts specified in Article 78 of this Law where:
+
+1. the acts are subject to an order authorizing such acts pursuant to Article 87 of this Law;
+
+2. the breeders rights with respect to the material has been exhausted pursuant to Article 83 of this Law;
+
+3. the acts are subject to restrictions based on the public interest as set forth in Article 87 of this Law;
+
+4. the breeder’s right has been declared void by a court pursuant to Article 85 of this Law and the time for appeal has expired;
+
+5. the right has been cancelled pursuant to Article 86 of this Law.
+
+ 
+Article 119 (revised). Violation of Copyright and Related Rights
+Violations of copyright and related rights are as follows:
+
+1. committing an act of infringement as described in Article 99 or 108 of this Law;
+
+2. circumventing effective technological measures used by performers or producers of phonograms in connection with the exercise of their rights and that restrict acts, in respect of their performances or phonograms, which are not authorized by the performers or the producers of phonograms concerned or permitted by law;
+
+3. performing any of the following acts, knowingly or having reasonable grounds to know that it will lead to an infringement of copyright or related rights:
+
+3.1. Removing or altering any electronic rights management information without authority;
+
+3.2. distributing, importing for distribution, broadcasting, communicating or making available to the public, without authority, performances, copies of fixed performances or phonograms knowing that electronic rights management information has been removed or altered without authority.
+
+4. recording or disseminating of satellite signal carrying encrypted or unencrypted programs for commercial purposes without the authorization of the lawful distributors.
+
+ 
+Article 120 (revised). Unfair Competition
+Any act of competition contrary to honest practices in industrial or commercial matters constitutes an act of unfair competition. The following acts shall constitute acts of unfair competition and shall be prohibited:
+
+1. direct or indirect use of a false indication of the source of a good or the identity of the producer, manufacturer, or merchant;
+
+2. all acts of such a nature as to create confusion by any means whatever with the establishment, the goods, or the industrial or commercial activities, of a competitor;
+
+3. false allegations of such a nature as to discredit the establishment, the goods, or the industrial or commercial activities, of a competitor;
+
+4. use of indications or allegations where such use is liable to mislead the public as to the nature, the manufacturing process, the characteristics, the suitability for their purpose, or the quantity, of the goods.
+
+ 
+Article 121 (new). Trademark Counterfeiting
+Counterfeit trademark goods shall mean any goods, including packaging, bearing without authorization a trademark which is identical to the trademark validly registered in respect of such goods, or which cannot be distinguished in its essential aspects from such a trademark, and which thereby infringes the rights of the owner of the trademark in question under this Law.
+
+It shall be a violation of this Law to create, sell, offer for sale, advertise or otherwise market, or to import or export counterfeit trademark goods.
+
+ 
+Article 122 (new). Copyright Piracy
+Pirated copyright goods shall mean any good which is a copy of a work of authorship or object of related rights, where such copy is:
+
+1. made without the consent of the right holder or person duly authorized by the right holder in the country of production;
+
+2. made directly or indirectly from an article including the use of any instruments for recording cinematographic works in the movie theaters.
+
+It shall be a violation of this Law to produce pirated copyright goods, or to, sell, offer for sale, advertise or otherwise market, or to export or import such goods.
+
+Section VIII. Dispute Resolution
+Part 1. Forms of Dispute Resolution
+ 
+Article 123. Forms of Dispute Resolution
+Intellectual property dispute resolution may be carried out in the following forms:
+
+1. Reconciliation;
+
+2. Mediation;
+
+3. Administrative remedies;
+
+4. Remedy through Economic Dispute Resolution Committee;
+
+5. Judicial Actions to People’s Courts;
+
+6. International dispute settlement.
+
+ 
+Article 124 (new). Right to Choose the Forms of Dispute Resolution
+Upon an intellectual property dispute arises, the parties may choose any form of dispute resolution as provided for in Article 123 of this Law.
+
+ 
+Article 125 (revised). Reconciliation
+The parties may reconcile with regard to violation of intellectual property rights.
+
+The agreement resulting from the reconciliation shall adhere to contracting principles as provided for in the Law on Contract and Tort.
+
+ 
+Article 126 (new). Mediation
+The parties may choose the mediation form to resolve their dispute at any time in accordance with laws and regulations.
+
+ 
+Article 127. Administrative Remedies
+The parties may request the intellectual property administration authority for dispute resolution relating to intellectual property in accordance with laws and regulations.
+
+ 
+Article 128 (new). Administrative Remedies of Intellectual Property Disputes at Borders
+The parties may file an application to the customs administration for dispute resolution relating to intellectual property at borders in accordance with laws and regulations.
+
+The administrative remedy procedures for dispute resolution relating to intellectual property at borders are set out in a specific regulation.
+
+ 
+Article 129 (new). Remedy through Economic Dispute Resolution Committee
+The parties may request the Economic Dispute Resolution Committee at anytime to resolve their intellectual property dispute in accordance with the Law on Economic Dispute Resolution and other relevant laws and regulations.
+
+ 
+Article 130. Judicial Actions to People’s Court
+The parties may file an action to the People’s Court to decide on intellectual property dispute in accordance with laws and regulations.
+
+ 
+Article 131. International Dispute Settlement
+The intellectual property dispute settlement of international nature shall be proceeded in accordance with international conventions or agreements to which the Lao PDR is a party.
+
+Part 2. Court Proceedings and Enforcement
+ 
+Article 132 (new). Court Proceedings on Intellectual Property Right Violations
+A plaintiff suffering from a violation of its intellectual property has the right to file a judicial action to the People’s Court in accordance with the Law on Civil Procedures and other relevant laws.
+
+ 
+Article 133 (new). Plaintiff
+A plaintiff in the meaning of Article 132 of this Law may be intellectual property owner, federations or associations representing interested industrialists, producers, or merchants, and associations managing copyright and related rights or any other person who suffers damages from any intellectual property violations.
+
+ 
+Article 134 (new). Jurisdiction of People’s Court for Intellectual Property Violations
+The People’s Court shall have jurisdiction over all violations of intellectual property rights in accordance with the procedures as provided for in the Law on Civil Procedures and the Law on Criminal Procedures as the case may be.
+
+ 
+Article 135 (new). Special Evidence Issues in Intellectual Property Enforcement Proceedings
+In court proceedings for infringement of a patent for a process for obtaining a new product, where the same product is produced by a person other than the patent holder or a person authorized by him, it shall be deemed that such product was obtained by the patented process in the absence of proof to the contrary, provided however, that in the adduction of proof to the contrary, the legitimate interests of defendants in protecting their manufacturing and business secrets shall be taken into account.
+
+The individual, legal entity or organization whose name appears on a literary work in the usual manner shall, in the absence of proof to the contrary, be presumed to be the author of the work and entitled to institute infringement proceedings. This paragraph shall be applicable even where this name is a pseudonym, where the pseudonym adopted by the author leaves no doubt as to his identity.
+
+In the case of anonymous and pseudonymous works, other than those referred to in paragraph 2 of this Article, the publisher whose name appears on the work shall, in the absence of proof to the contrary, be deemed to represent the author, and in this capacity he shall be entitled to protect and enforce the author's rights. The provisions of this paragraph shall cease to apply when the author reveals his identity and establishes his claim to authorship of the work.
+
+The person, legal entity or organization whose name appears on a cinematographic work in the usual manner, shall, in the absence of proof to the contrary, be presumed to be the maker of the said work and entitled to institute infringement proceedings.
+
+Where a party has presented reasonably available evidence sufficient to support its claims and has specified evidence relevant to substantiation of its claims which lies in the control of the opposing party, the People’s Court shall have the authority to order that this evidence be produced by the opposing party, subject in appropriate cases to conditions which ensure the protection of confidential information. Where such party to a proceeding voluntarily and without good reason refuses access to, or otherwise does not provide necessary information within a reasonable period, or significantly impedes a procedure relating to an enforcement action, the People’s Court may proceed to make preliminary and final determinations, affirmative or negative, on the basis of the information presented to it, including the complaint or the allegation presented by the party adversely affected by the denial of access to information, subject to providing the parties an opportunity to be heard on the allegations or evidence.
+
+Any individual, legal entity or organization who asserts that an act of infringement or unfair competition is excused as provided in paragraph 2 of Article 117 of this Law shall have the burden of proving such facts. This provision shall apply mutatis mutandis to acts of infringement of plant variety rights, copyright and related rights, or other violations set forth in this Law.
+
+Infringement of a patent or petty patent shall be established only on the basis of evidence showing that the subject matter alleged to be infringing incorporates or implements each element of at least one claim of the patent or petty patent alleged to be infringed. Infringement is not negated by the presence of additional elements in the allegedly infringing subject matter or by the existence of claims in the patent or petty patent that are not infringed.
+
+For a complaint alleging infringement of a trademark, collective mark, or certification mark, the complainant must show that:
+
+1. the marks are similar in their appearance, sound or meaning;
+
+2. that the marks relate to the same, similar, or related goods or services; and
+
+3. the use of such marks is likely to confuse or deceive consumers as to the source, sponsorship, or characteristics of the goods or services or otherwise indicate falsely that there is a relationship between the complainant’s goods or services and those of the alleged infringer.
+
+ 
+Article 136 (new). Invalidity and Cancellation
+Where a patent, petty patent, industrial design registration, trademark registration, integrated circuit layout-design registration, or plant variety protection certificate is held invalid by the People’s Court, the Ministry of Science and Technology shall cancel such intellectual property accordingly. In the case of patents or petty patents, such holding shall specify the patent or petty patent claims to which the holding applies.
+
+ 
+Article 137 (new). Remedies for Civil Enforcement
+In the court proceedings, the plaintiff may request the People’s Court to:
+
+1. Order the infringer to desist from an infringement;
+
+2. Order the suspension of Customs procedures;
+
+3. Order the seizure of goods to prevent the entry into the channels of commerce of imported goods that involve the infringement of an intellectual property right, immediately after customs clearance of such goods;
+
+4. Order a declaratory judgment of infringement;
+
+5. Order the infringer to pay damages adequate to compensate;
+
+6. Order the infringer to pay the right holder expenses, which may include appropriate attorney’s fees;
+
+7. Order that goods that have been found to be infringing, be destroyed or otherwise disposed of in such a manner that such goods will not enter channels of commerce;
+
+8. Order that materials and implements the predominant use of which has been in the creation of the infringing goods be disposed of outside the channels of commerce in such a manner as to minimize the risks of further infringements.
+
+In considering requests under items 7 and 8 above, the People’s Court shall take into account for proportionality between the seriousness of the infringement and the remedies ordered as well as the interests of third parties.
+
+In regard to counterfeit trademark goods, the simple removal of the trademark unlawfully affixed shall not be sufficient to permit the release of the goods into the channels of commerce.
+
+ 
+Article 138 (new). Damage Awards
+The People’s Court shall set damage awards in an amount sufficient to compensate the party making the claim for its losses and to deprive the infringer or other violator of any profit from its unlawful act. The People’s Court may order recovery of profits and/or payment of damages even where the infringer did not knowingly, or with reasonable grounds to know, engage in infringing activity.
+
+ 
+Article 139 (new). Right of Information
+Unless it would be out of proportion to the seriousness of the infringement, the plaintiff may request the Court to order a violator to inform the party bringing the action of the identity of third persons involved in the production and distribution of the infringing goods or services and of their channels of distribution.
+
+ 
+Article 140 (new). Indemnification of the Defendant
+A defendant may request the People’s Court to order a party at whose request measures were taken and who has abused enforcement procedures to provide to a party wrongfully enjoined or restrained with compensation including expenses in connection with the legal action, which may include attorney's fees for the injury suffered because of such abuse.
+
+ 
+Article 141 (new). Provisional Measures
+A individual, legal entity or organization may file a complaint requesting the People’s Court to order prompt and effective provisional measures to:
+
+1. prevent an infringement of any intellectual property right from occurring;
+
+2. prevent the entry into the channels of commerce of goods, including imported goods immediately after customs clearance;
+
+3. preserve relevant evidence in regard to the alleged infringement;
+
+ 
+Article 142 (new). Requirements for Application for Provisional Measures
+An application for provisional measures shall be required to:
+
+1. provide any reasonably available evidence in order to satisfy the Court with a sufficient degree of certainty that the applicant is the right holder and that the applicant’s right is being infringed or that such infringement is imminent;
+
+2. provide a security or equivalent assurance sufficient to protect the defendant and to prevent abuse;
+
+3. supply other information necessary for the identification of the goods concerned by the authority that will execute the provisional measures.
+
+ 
+Article 143 (new). Provisional Measures Inaudita Altera Parte
+An applicant may file a claim requesting the People’s Court to adopt provisional measures inaudita altera parte where appropriate, in particular where any delay is likely to cause irreparable harm to the right holder, or where there is a demonstrable risk of evidence being destroyed.
+
+Where provisional measures have been adopted inaudita altera parte, the parties affected shall be given notice, without delay after the execution of the measures at the latest. A review, including a right to be heard, shall take place upon request of the defendant with a view to deciding, within a reasonable period after the notification of the measures, whether the provisional measures should be modified, revoked or confirmed.
+
+ 
+Article 144 (new). Review of Provisional Measures
+Provisional measures taken on the basis of Articles 141 and 142 of this Law shall, upon request by the defendant, be revoked or otherwise cease to have effect, if proceedings leading to a decision on the merits of the case are not initiated within a reasonable period, to be determined by the People’s Court ordering the measures but, not to exceed 20 working days or 31 calendar days, whichever is the longer.
+
+Where the provisional measures are revoked or where they lapse due to any act or omission by the applicant, or where it is subsequently found that there has been no infringement or threat of infringement of an intellectual property right, People’s Court shall have the authority to order the applicant, upon request of the defendant, to provide the defendant appropriate compensation for any injury caused by these measures.
+
+ 
+Article 145 (new). Criminal Offenses of Intellectual Property
+The criminal offenses of intellectual property shall be as follows:
+
+1. intentionally violating Articles 117, 118, 119, and/or 120 of this Law for a commercial purpose;
+
+2. intentionally violating Articles 117, 118, 119, 120, 121, and/or 122 of this Law, where such violation results in harm to the health of a person, damage to the environment, or damage to property;
+
+3. intentionally violating Article 121 and/or 122 of this Law.
+
+Section VIII. Management and Inspection
+Part 1. Management
+ 
+Article 146 (revised). Intellectual Property Administration Authority
+The government manages intellectual property in a centralized and unified principle throughout the country assigning the Ministry of Science and Technology as the central coordinator with the relevant sectors, such as the Industry and Commerce, Agriculture and Forestry, Information, Culture and Tourism, Education and Sports, Public Health, Finance sectors and relevent local administrations.
+
+The other sectors and authorities have the rights and duties to manage intellectual property according to their roles. The intellectual property supervision authority includes:
+
+1. Ministry of Science and Technology;
+
+2. the Provincial, Capital Authority for Science and Technology.
+
+If required, town and municipal science and technology offices may be established.
+
+ 
+Article 147 (revised). Rights and Duties of the Ministry of Science and Technology
+In the management of intellectual property the Ministry of Science and Technology has the following rights and duties:
+
+1. to study strategies, policy plans, laws and plans involving the development of intellectual property works for proposal to the government for consideration;
+
+2. to issue regulations, decisions, instructions, recommendations and notices involving intellectual property activities;
+
+3. to disseminate and organize a public awareness within society about intellectual property activities;
+
+4. to guide, monitor and evaluate the implementation of intellectual property activities throughout the country;
+
+5. to issue patents, petty patents, and registrations and provide intellectual property services;
+
+6. to issue or cancel intellectual property registration certificates and issue licenses to any individual or entity or organization which provides intellectual property services or cancel the license;
+
+7. to resolve requests, disputes and violations of intellectual property rights;
+
+8. to propose and to establish committees concerning intellectual property;
+
+9. to train and enhance the level of private sector and state employees involved in intellectual property activities;
+
+10. to coordinate with the other sector authorities and relevant local administrations at the different levels to establish intellectual property activities management;
+
+11. to participate and cooperate at the international level in intellectual property;
+
+12. to summarize, report on the implementation of intellectual property activities regularly to the government;
+
+13. to perform other rights and duties as stipulated in the laws and regulations.
+
+ 
+Article 148. Rights and Duties of the Provincial, Capital Authority for Science and Technology
+In the management of intellectual property, the Provincial, Capital Authority for Science and Technology has the following rights and duties:
+
+1. to expand policy plans, laws and regulations and plans involving the development of intellectual property activities of the Ministry of Science and Technology and implement them as their own;
+
+2. to disseminate policy plans, laws and regulations and plans involving the development of intellectual property activities of the Ministry of Science and Technology, its own regulations and plans and organize a public awareness within society about intellectual property activities;
+
+3. to resolve requests, petitions, disputes and violations of intellectual property rights within their responsibilities;
+
+4. to coordinate with the relevant provincial, city authorities in the implementation of intellectual property activities;
+
+5. to coordinate and cooperate with foreign countries from the assignment of high level authority;
+
+6. to summarize, report on the implementation of intellectual property activities to the Ministry of Science and Technology and provincial, city administrative authorities regularly;
+
+7. to perform other rights and duties as stipulated in the laws and regulations.
+
+ 
+Article 149. Prohibitions on Officers who are Responsible for Intellectual Property Activities
+Officers who are responsible for intellectual property activities are prohibited from doing the following:
+
+1. showing a lack of responsibility and neglecting one’s duties;
+
+2. carrying out duties unfairly or showing partiality towards an individual or entity organization;
+
+3. reveal intellectual property information without authorization from the owner;
+
+4. abusing one’s position, duties, authority for personal, family or relative interests;
+
+5. other illegal activities.
+
+Part 2. Inspection
+ 
+Article 150. Intellectual Property Inspection Authority
+Intellectual property inspection authorities include:
+
+1. The internal inspection authority, which is the same authority as the intellectual property administration authority stipulated in Article 146 of this Law;
+
+2. The external inspection authorities, comprising:
+
+- the National Assembly;
+
+- the State Audit Authority;
+
+- the Government Inspection and Anti-Corruption Authority.
+
+ 
+Article 151. Rights and Duties of Inspection Authorities
+The internal and external inspection authorities have the rights and duties to inspect the implementation of intellectual property activities within the scope of their responsibilities.
+
+ 
+Article 152. Forms of Intellectual Property Inspections
+Inspection of intellectual property is carried out in the following three forms:
+
+1. routine inspections;
+
+2. irregular inspections by advance notice;
+
+3. emergency inspections
+
+Routine inspections are regular planned inspections.
+
+Irregular inspections by advance notice are not planned inspections and are carried out where considered necessary, hence the advance notices. Emergency inspections, is an urgent inspection whereby the inspected party is not notified.
+
+ 
+Article 153. Inspection of Intellectual Property at Border Checkpoints
+In order to intercept intellectual property violations, customs officers and other officers assigned to border checkpoints have the rights and duties in accordance with laws and regulations to inspect goods exported and imported, seize and impound goods which violate intellectual property.
+
+ 
+Article 154. Inspections by other Authorities
+Other authorities have the rights and duties to carry out intellectual property inspections according to their role, which are determined in specific regulations.
+
+Section IX. Awards and Sanctions
+ 
+Article 155. Award Policies
+Individuals, legal entities or organizations who have remarkable accomplishment in implementing of the Law on Intellectual Property, such as management and inspection of intellectual property shall be awarded merits or other forms according to rule.
+
+ 
+Article 156. Policies for Inventors and Creators
+Individuals, legal entities or organizations who have remarkable accomplishment in invention and creation will be awarded merits and other forms according to rule.
+
+ 
+Article 157. Measures against Violators
+Individuals, legal entities or organizations that violate the Law on Intellectual Property will be subject to education or warning, disciplinary action, fines, civil compensation, and/or criminal punishment as the case may be.
+
+ 
+Article 158. Education or warning Measures
+Individuals or organizations that violate the Law on Intellectual Property for the first time which is an unintentional violation and resulted in damages of less than 500,000 Kip will be educated or warned.
+
+ 
+Article 159. Disciplinary Measures
+Officials and officers who violate the Law on Intellectual Property and minor prohibitions which are not criminal offences and result in damages of less than 500,000 Kip, but who failed to report the violation or avoided the violation will be subject to disciplinary action as follows:
+
+1. warned under civil service regulations and have the violation recorded;
+
+2. promotion, salary raise and merits shall be suspended;
+
+3. removed or transferred to a lesser position and duties;
+
+4. removed from the civil service without any benefits.
+
+ 
+
+Article 160. Fines
+Any individual, legal entity or organization who intentionally violates the Law on Intellectual Property or who commits a second or later unintentional violation shall be fined 1% of the damages value occurred.
+
+Any individual, legal entity or organization that intentionally violates for a second time or repeatedly shall be fined 5% of the damages value occurred for each violation.
+
+Ministry of Science and Technology shall issue the Regulation to implement fines.
+
+ 
+
+Article 161. Civil Measures
+Any individual, legal entity or organization that violates this Law and causes damages to any other person shall be liable for such damages.
+
+ 
+
+Article 162 (revised). Criminal Measures
+Individuals that violate intellectual property rights, counterfeit, deceive, fraud or commit acts of unfair competition that result in damages against third parties, will be imprisoned between three months and up to two years and fined between 500,000 – 10,000,000 Kip.
+
+In the event of other offences which are criminal in nature, the violator will be punished under Criminal Law.
+
+ 
+
+Article 163. Additional Measures
+In addition to the punishments set forth in Articles 162 of this Law, the violator may be subject to additional measures, in particular, suspension, withdrawal of business licenses, seizure of infringing goods and equipment involving in the commission of the offence.
+
+Section X. Final Provisions
+ 
+
+Article 164. Implementation
+The government of the Lao People’s Democratic Republic shall implement this law.
+
+ 
+
+Article 165. Effectiveness
+This law shall be effective 90 days after the President of the Lao People’s Democratic Republic issues the promulgating decree.
+
+This law supersedes the Law on Intellectual Property No. 08/NA dated December 24, 2007
+
+Regulations and provisions, which contradict this law, are hereby repealed.
